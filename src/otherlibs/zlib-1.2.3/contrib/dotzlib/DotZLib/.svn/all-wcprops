@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/AssemblyInfo.cs
+END
+CircularBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/CircularBuffer.cs
+END
+DotZLib.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/DotZLib.csproj
+END
+UnitTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/UnitTests.cs
+END
+ChecksumImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/ChecksumImpl.cs
+END
+Inflater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/Inflater.cs
+END
+GZipStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/GZipStream.cs
+END
+Deflater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/Deflater.cs
+END
+DotZLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/DotZLib.cs
+END
+CodecBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/dotzlib/DotZLib/CodecBase.cs
+END

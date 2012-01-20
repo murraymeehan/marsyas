@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4471/trunk/src/apps/audioCompare
+END
+audioCompare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4471/trunk/src/apps/audioCompare/audioCompare.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3045/trunk/src/apps/audioCompare/CMakeLists.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/libpng-1.2.35/contrib/pngminim/encoder
+END
+gather.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/libpng-1.2.35/contrib/pngminim/encoder/gather.sh
+END
+pngusr.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/libpng-1.2.35/contrib/pngminim/encoder/pngusr.h
+END
+makefile.std
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/libpng-1.2.35/contrib/pngminim/encoder/makefile.std
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/libpng-1.2.35/contrib/pngminim/encoder/README
+END
+dummy_inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/libpng-1.2.35/contrib/pngminim/encoder/dummy_inflate.c
+END

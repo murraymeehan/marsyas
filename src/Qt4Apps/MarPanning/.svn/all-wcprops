@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3728/trunk/src/Qt4Apps/MarPanning
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3728/trunk/src/Qt4Apps/MarPanning/main.cpp
+END
+glwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3728/trunk/src/Qt4Apps/MarPanning/glwidget.cpp
+END
+window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3728/trunk/src/Qt4Apps/MarPanning/window.cpp
+END
+glwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3728/trunk/src/Qt4Apps/MarPanning/glwidget.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3572/trunk/src/Qt4Apps/MarPanning/CMakeLists.txt
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3728/trunk/src/Qt4Apps/MarPanning/window.h
+END

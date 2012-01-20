@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/src
+END
+SonificationEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/src/SonificationEngine.h
+END
+ofMarSimpleSine.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/src/ofMarSimpleSine.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/src/main.cpp
+END
+SonificationEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/src/SonificationEngine.cpp
+END
+ofMarSimpleSine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/src/ofMarSimpleSine.cpp
+END

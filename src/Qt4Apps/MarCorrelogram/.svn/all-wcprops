@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram/main.cpp
+END
+glwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram/glwidget.cpp
+END
+window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram/window.cpp
+END
+glwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram/glwidget.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram/CMakeLists.txt
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3816/trunk/src/Qt4Apps/MarCorrelogram/window.h
+END

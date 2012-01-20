@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface
+END
+Extractor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface/Extractor.h
+END
+MyDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface/MyDisplay.h
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface/Parser.h
+END
+Classifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface/Classifier.h
+END
+Playback.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface/Playback.h
+END
+Parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Interface/Parser.cpp
+END

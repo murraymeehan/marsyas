@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4654/trunk/src/django/birdsong/application/birdsong
+END
+fabfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/fabfile.py
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/manage.py
+END
+2005_449A_trim.output
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/2005_449A_trim.output
+END
+audio.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/audio.png
+END
+populate_database.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/populate_database.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/__init__.py
+END
+tiny.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/tiny.png
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/settings.py
+END
+MARSYAS_EMPTY.output
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/MARSYAS_EMPTY.output
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/urls.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/README
+END

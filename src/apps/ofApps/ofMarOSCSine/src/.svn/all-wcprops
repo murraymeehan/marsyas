@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src
+END
+SoundEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/SoundEngine.cpp
+END
+SoundEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/SoundEngine.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/main.cpp
+END
+SineChanger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/SineChanger.cpp
+END
+ofMarOSCSine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/ofMarOSCSine.cpp
+END
+SineChanger.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/SineChanger.h
+END
+ofMarOSCSine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/src/ofMarOSCSine.h
+END

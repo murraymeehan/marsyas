@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarxGLGraph
+END
+MarxGLColorGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarxGLGraph/MarxGLColorGraph.h
+END
+TopPanelNew.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarxGLGraph/TopPanelNew.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarxGLGraph/main.cpp
+END
+MarSystemWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarxGLGraph/MarSystemWrapper.cpp
+END
+MarxGLColorGraph.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarxGLGraph/MarxGLColorGraph.sln
+END
+MarSystemWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarxGLGraph/MarSystemWrapper.h
+END
+MarxGLColorGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarxGLGraph/MarxGLColorGraph.cpp
+END
+TopPanelNew.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarxGLGraph/TopPanelNew.cpp
+END

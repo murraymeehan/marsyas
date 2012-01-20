@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/marsyas/!svn/ver/4701/trunk/cmake-modules
+END
+FindZLIB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3454/trunk/cmake-modules/FindZLIB.cmake
+END
+FindMatlab.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3843/trunk/cmake-modules/FindMatlab.cmake
+END
+FindOggVorbis.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3126/trunk/cmake-modules/FindOggVorbis.cmake
+END
+Findmad.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3796/trunk/cmake-modules/Findmad.cmake
+END
+FindDirectX.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4674/trunk/cmake-modules/FindDirectX.cmake
+END
+FindPythonInterp.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4697/trunk/cmake-modules/FindPythonInterp.cmake
+END
+Findvamp.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3055/trunk/cmake-modules/Findvamp.cmake
+END
+FindOSS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3029/trunk/cmake-modules/FindOSS.cmake
+END
+marsyas-options.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4631/trunk/cmake-modules/marsyas-options.cmake
+END
+marsyas-oslibs.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4692/trunk/cmake-modules/marsyas-oslibs.cmake
+END
+marsyas-package.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4611/trunk/cmake-modules/marsyas-package.cmake
+END
+FindGLUT.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3561/trunk/cmake-modules/FindGLUT.cmake
+END
+Findlame.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3796/trunk/cmake-modules/Findlame.cmake
+END
+FindALSA.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3032/trunk/cmake-modules/FindALSA.cmake
+END
+CMakeFindFrameworks.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3791/trunk/cmake-modules/CMakeFindFrameworks.cmake
+END
+marsyas-includes.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4631/trunk/cmake-modules/marsyas-includes.cmake
+END
+FindFreetype.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4539/trunk/cmake-modules/FindFreetype.cmake
+END
+FindPNG.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3696/trunk/cmake-modules/FindPNG.cmake
+END
+FindOpenGL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3561/trunk/cmake-modules/FindOpenGL.cmake
+END
+marsyas-detect.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4631/trunk/cmake-modules/marsyas-detect.cmake
+END
+FindMaxSDK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4482/trunk/cmake-modules/FindMaxSDK.cmake
+END
+FindGStreamer.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3054/trunk/cmake-modules/FindGStreamer.cmake
+END
+FindPythonLibs.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4696/trunk/cmake-modules/FindPythonLibs.cmake
+END

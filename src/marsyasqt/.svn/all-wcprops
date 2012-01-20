@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/marsyas/!svn/ver/3802/trunk/src/marsyasqt
+END
+OscMapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3720/trunk/src/marsyasqt/OscMapper.h
+END
+qosctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/qosctypes.h
+END
+MarSystemQtWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/MarSystemQtWrapper.h
+END
+qoscserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/qoscserver.h
+END
+qoscclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/qoscclient.cpp
+END
+qoscclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/qoscclient.h
+END
+Marx2DGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3802/trunk/src/marsyasqt/Marx2DGraph.cpp
+END
+QtMarPlot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/QtMarPlot.cpp
+END
+QtMarAbout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/QtMarAbout.h
+END
+Marx2DGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyasqt/Marx2DGraph.h
+END
+QtMarPlot.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/QtMarPlot.h
+END
+OscMapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/OscMapper.cpp
+END
+qosctypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/qosctypes.cpp
+END
+MarSystemQtWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/MarSystemQtWrapper.cpp
+END
+qoscserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyasqt/qoscserver.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3010/trunk/src/marsyasqt/CMakeLists.txt
+END

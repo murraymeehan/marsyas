@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings
+END
+save-pitchcontour.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/save-pitchcontour.html
+END
+show_annotations.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/show_annotations.html
+END
+_pitchcontour_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/_pitchcontour_item.html
+END
+show.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/show.html
+END
+pitchcontour.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/pitchcontour.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/index.html
+END
+annotations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/annotations.txt
+END
+save
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/recordings/save
+END

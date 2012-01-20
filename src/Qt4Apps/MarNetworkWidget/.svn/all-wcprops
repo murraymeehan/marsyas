@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget
+END
+GWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/GWidget.h
+END
+GMarSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/GMarSystem.h
+END
+MarSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/MarSystem.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/main.cpp
+END
+MarNetworkCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/MarNetworkCanvas.cpp
+END
+GTinyButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/GTinyButton.cpp
+END
+MarSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/MarSystem.h
+END
+GWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/GWidget.cpp
+END
+MarNetworkCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/MarNetworkCanvas.h
+END
+GMarSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/GMarSystem.cpp
+END
+GTinyButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/GTinyButton.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/3367/trunk/src/Qt4Apps/MarNetworkWidget/CMakeLists.txt
+END

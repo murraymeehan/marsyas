@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/4676/trunk/src/apps/pitchdtw
+END
+pitchdtw_pair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4676/trunk/src/apps/pitchdtw/pitchdtw_pair.cpp
+END
+pitchdtw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4675/trunk/src/apps/pitchdtw/pitchdtw.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4329/trunk/src/apps/pitchdtw/CMakeLists.txt
+END

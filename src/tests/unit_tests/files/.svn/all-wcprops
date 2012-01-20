@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4526/trunk/src/tests/unit_tests/files
+END
+tiny.arff
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3080/trunk/src/tests/unit_tests/files/tiny.arff
+END
+two-classes-one-attribute.arff
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/marsyas/!svn/ver/3080/trunk/src/tests/unit_tests/files/two-classes-one-attribute.arff
+END
+normal.arff
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3080/trunk/src/tests/unit_tests/files/normal.arff
+END
+binaural.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4526/trunk/src/tests/unit_tests/files/binaural.wav
+END
+test.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4031/trunk/src/tests/unit_tests/files/test.wav
+END

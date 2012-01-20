@@ -1,0 +1,131 @@
+10
+
+dir
+4726
+https://marsyas.svn.sourceforge.net/svnroot/marsyas/trunk/src/Qt4Apps
+https://marsyas.svn.sourceforge.net/svnroot/marsyas
+
+
+
+2010-12-11T05:31:34.007887Z
+4332
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0901a56d-6f15-0410-8871-f39a65de4983
+
+Marx2DGraph
+dir
+
+MarxGLMultiBufferGraph
+dir
+
+MarPhasevocoder
+dir
+
+MarGrid
+dir
+
+MarSndPeek
+dir
+
+MarPanning
+dir
+
+MarSystemBuilder
+dir
+
+MarPlayer
+dir
+
+MarxGL2Din3DSpaceGraph
+dir
+
+MarNetworkWidget
+dir
+
+MarOscMultiGain
+dir
+
+VauxelReality
+dir
+
+Marx2DStackedGraphs
+dir
+
+MarWidgets
+dir
+
+regressionQtChecks
+dir
+
+MarGrid2
+dir
+
+marlily
+dir
+
+MarMonitors
+dir
+
+MarOscIn
+dir
+
+MarOscOut
+dir
+
+MarCorrelogram
+dir
+
+MarxGLGraph
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-01-20T01:10:59.308849Z
+58a4da0b79f2ac13c5382c62888b6429
+2010-06-21T11:32:33.538659Z
+4088
+sigmadraconis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1362
+
+MarLpc
+dir
+

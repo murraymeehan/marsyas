@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3086/trunk/src/Qt4Apps/MarPlayer/images
+END
+media-play.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/images/media-play.png
+END
+marsyasBanner.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/images/marsyasBanner.png
+END
+media-prev.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/images/media-prev.png
+END
+media-pause.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/images/media-pause.png
+END
+media-next.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/images/media-next.png
+END

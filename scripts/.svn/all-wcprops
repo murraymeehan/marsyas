@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/marsyas/!svn/ver/4579/trunk/scripts
+END
+upload-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3242/trunk/scripts/upload-docs.sh
+END
+addMarSystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/1436/trunk/scripts/addMarSystem.py
+END
+generate-source-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3166/trunk/scripts/generate-source-docs.sh
+END
+make-subdirs-collection.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4579/trunk/scripts/make-subdirs-collection.sh
+END
+removeMarSystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/1436/trunk/scripts/removeMarSystem.py
+END
+generate-unit-test-cpp-files.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3832/trunk/scripts/generate-unit-test-cpp-files.py
+END
+regtest_sanity.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3141/trunk/scripts/regtest_sanity.py
+END
+modifyBuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3235/trunk/scripts/modifyBuild.py
+END
+createMarSystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3588/trunk/scripts/createMarSystem.py
+END
+cmake-test-wrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4568/trunk/scripts/cmake-test-wrapper.py
+END
+kea-wrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4562/trunk/scripts/kea-wrapper.py
+END
+addClass.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/1436/trunk/scripts/addClass.py
+END
+removeClass.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/1436/trunk/scripts/removeClass.py
+END
+dailytest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4569/trunk/scripts/dailytest.sh
+END
+regtest_coffee.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3141/trunk/scripts/regtest_coffee.py
+END

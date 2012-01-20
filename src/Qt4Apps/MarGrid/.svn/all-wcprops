@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarGrid
+END
+SpectraColormap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/SpectraColormap.cpp
+END
+MarGrid.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarGrid/MarGrid.sln
+END
+test.mf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarGrid/test.mf
+END
+music.mf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarGrid/music.mf
+END
+SpectraColormap.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/SpectraColormap.h
+END
+GreyScaleColormap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/GreyScaleColormap.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarGrid/README
+END
+ColorMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/ColorMap.cpp
+END
+MarGridWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3727/trunk/src/Qt4Apps/MarGrid/MarGridWindow.cpp
+END
+MarGrid_resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarGrid/MarGrid_resource.rc
+END
+GreyScaleColormap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/GreyScaleColormap.h
+END
+ColorMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/ColorMap.h
+END
+MarGridWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3382/trunk/src/Qt4Apps/MarGrid/MarGridWindow.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarGrid/main.cpp
+END
+MarGrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarGrid/MarGrid.cpp
+END
+MarGrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3382/trunk/src/Qt4Apps/MarGrid/MarGrid.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3186/trunk/src/Qt4Apps/MarGrid/CMakeLists.txt
+END

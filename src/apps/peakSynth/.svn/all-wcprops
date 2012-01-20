@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4256/trunk/src/apps/peakSynth
+END
+peakSynth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4256/trunk/src/apps/peakSynth/peakSynth.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3156/trunk/src/apps/peakSynth/CMakeLists.txt
+END

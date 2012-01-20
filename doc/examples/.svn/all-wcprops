@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/examples
+END
+controls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/examples/controls.cpp
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/examples/Makefile.osx
+END
+do-nothing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/do-nothing.cpp
+END
+README-devel
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/README-devel
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/examples/Makefile.linux
+END
+commandOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/commandOptions.cpp
+END
+dataflow-split.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/examples/dataflow-split.cpp
+END
+writefile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/examples/writefile.cpp
+END
+README-users
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/README-users
+END
+gettingdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/examples/gettingdata.cpp
+END
+helloworld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/examples/helloworld.cpp
+END

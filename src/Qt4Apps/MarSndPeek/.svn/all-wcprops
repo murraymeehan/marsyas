@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3571/trunk/src/Qt4Apps/MarSndPeek
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3568/trunk/src/Qt4Apps/MarSndPeek/main.cpp
+END
+glwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3571/trunk/src/Qt4Apps/MarSndPeek/glwidget.cpp
+END
+window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3570/trunk/src/Qt4Apps/MarSndPeek/window.cpp
+END
+glwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3570/trunk/src/Qt4Apps/MarSndPeek/glwidget.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3562/trunk/src/Qt4Apps/MarSndPeek/CMakeLists.txt
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3570/trunk/src/Qt4Apps/MarSndPeek/window.h
+END

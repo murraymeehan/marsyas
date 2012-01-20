@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/RtAudio4
+END
+AudioSourceRt4.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/RtAudio4/AudioSourceRt4.h
+END
+AudioSourceRt4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/RtAudio4/AudioSourceRt4.cpp
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/marsyas/!svn/ver/4722/trunk/src/mvamp
+END
+MarsyasBExtractRolloff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractRolloff.cpp
+END
+MarsyasBExtractLSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractLSP.h
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4270/trunk/src/mvamp/INSTALL.txt
+END
+MarsyasBExtractCentroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractCentroid.cpp
+END
+MarsyasBExtractRolloff.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractRolloff.h
+END
+MarsyasBExtractMFCC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractMFCC.cpp
+END
+MarsyasBExtractZeroCrossings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractZeroCrossings.cpp
+END
+MarsyasBExtractSCF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractSCF.cpp
+END
+MarsyasBExtractCentroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractCentroid.h
+END
+MarsyasBExtractMFCC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractMFCC.h
+END
+MarsyasBExtractZeroCrossings.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractZeroCrossings.h
+END
+MarsyasBExtractSCF.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractSCF.h
+END
+MarsyasBExtractLPCC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractLPCC.cpp
+END
+MarsyasIBT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4722/trunk/src/mvamp/MarsyasIBT.cpp
+END
+plugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4270/trunk/src/mvamp/plugins.cpp
+END
+MarsyasBExtractSFM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractSFM.cpp
+END
+MarsyasBExtractLPCC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractLPCC.h
+END
+MarsyasIBT.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4708/trunk/src/mvamp/MarsyasIBT.h
+END
+mvamp-plugins.cat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3048/trunk/src/mvamp/mvamp-plugins.cat
+END
+MarsyasBExtractSFM.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/MarsyasBExtractSFM.h
+END
+ZeroCrossing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/ZeroCrossing.cpp
+END
+vamp-plugin.map
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3048/trunk/src/mvamp/vamp-plugin.map
+END
+MarsyasBExtractLSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3955/trunk/src/mvamp/MarsyasBExtractLSP.cpp
+END
+oldMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3048/trunk/src/mvamp/oldMakefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4708/trunk/src/mvamp/CMakeLists.txt
+END
+ZeroCrossing.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3937/trunk/src/mvamp/ZeroCrossing.h
+END

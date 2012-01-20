@@ -1,0 +1,4127 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/marsyas/!svn/ver/4724/trunk/src/marsyas
+END
+SeneffEar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SeneffEar.cpp
+END
+Cartesian2Polar.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Cartesian2Polar.h
+END
+NormMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/NormMatrix.cpp
+END
+PeakMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PeakMask.h
+END
+Peaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4489/trunk/src/marsyas/Peaker.cpp
+END
+PeakSynthOscBank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PeakSynthOscBank.cpp
+END
+Rolloff.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2223/trunk/src/marsyas/Rolloff.h
+END
+PlotSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3220/trunk/src/marsyas/PlotSink.h
+END
+RBF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/RBF.cpp
+END
+Differentiator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3511/trunk/src/marsyas/Differentiator.h
+END
+TmVirtualTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/TmVirtualTime.h
+END
+AimVQ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/AimVQ.cpp
+END
+DLLDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4143/trunk/src/marsyas/DLLDefines.h
+END
+Accumulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4455/trunk/src/marsyas/Accumulator.cpp
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Color.h
+END
+MarSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4592/trunk/src/marsyas/MarSystem.cpp
+END
+ADRessStereoSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4422/trunk/src/marsyas/ADRessStereoSpectrum.cpp
+END
+SpectralTransformations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/SpectralTransformations.cpp
+END
+StereoSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/StereoSpectrum.h
+END
+BeatAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/BeatAgent.cpp
+END
+Delta.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/3680/trunk/src/marsyas/Delta.h
+END
+AuFileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3919/trunk/src/marsyas/AuFileSink.h
+END
+HalfWaveRectifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3539/trunk/src/marsyas/HalfWaveRectifier.h
+END
+Talk.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3959/trunk/src/marsyas/Talk.h
+END
+AimHCL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimHCL.h
+END
+Rolloff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Rolloff.cpp
+END
+PlotSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PlotSink.cpp
+END
+Windowing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4429/trunk/src/marsyas/Windowing.cpp
+END
+basis.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/3225/trunk/src/marsyas/basis.h
+END
+AimSAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimSAI.h
+END
+TmRealTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3190/trunk/src/marsyas/TmRealTime.h
+END
+Sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/4096/trunk/src/marsyas/Sum.h
+END
+WavFileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/WavFileSink.cpp
+END
+Selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3951/trunk/src/marsyas/Selector.h
+END
+main.doxy
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4461/trunk/src/marsyas/main.doxy
+END
+BaseAudioSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/BaseAudioSink.h
+END
+Clip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/Clip.cpp
+END
+Cascade.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Cascade.h
+END
+PvMultiResolution.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/PvMultiResolution.h
+END
+PeakFeatureSelect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4465/trunk/src/marsyas/PeakFeatureSelect.cpp
+END
+NormCut.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/NormCut.h
+END
+SMO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SMO.cpp
+END
+FM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/FM.cpp
+END
+WaveletPyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3526/trunk/src/marsyas/WaveletPyramid.h
+END
+AimSAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4469/trunk/src/marsyas/AimSAI.cpp
+END
+TmRealTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4189/trunk/src/marsyas/TmRealTime.cpp
+END
+ADRessSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4421/trunk/src/marsyas/ADRessSpectrum.cpp
+END
+Spectrum2ACMChroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3939/trunk/src/marsyas/Spectrum2ACMChroma.h
+END
+PeUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/PeUtilities.h
+END
+Biquad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4285/trunk/src/marsyas/Biquad.cpp
+END
+MarFileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/MarFileSink.h
+END
+RealvecSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4079/trunk/src/marsyas/RealvecSink.h
+END
+PeakSynthFFT.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PeakSynthFFT.h
+END
+Norm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Norm.cpp
+END
+Centroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Centroid.h
+END
+ExSymTbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3959/trunk/src/marsyas/ExSymTbl.h
+END
+Inject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/Inject.cpp
+END
+SpectralFlatnessAllBands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4353/trunk/src/marsyas/SpectralFlatnessAllBands.cpp
+END
+lu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4022/trunk/src/marsyas/lu.cpp
+END
+Cascade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/Cascade.cpp
+END
+PeakerOnset.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4181/trunk/src/marsyas/PeakerOnset.h
+END
+WavFileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3966/trunk/src/marsyas/WavFileSink.h
+END
+SoundFileSource2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SoundFileSource2.cpp
+END
+RemoveObservations.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4351/trunk/src/marsyas/RemoveObservations.h
+END
+MidiInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MidiInput.cpp
+END
+LSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/LSP.h
+END
+AccentFilterBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3459/trunk/src/marsyas/AccentFilterBank.h
+END
+AudioSinkBlocking.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4687/trunk/src/marsyas/AudioSinkBlocking.h
+END
+Vibrato.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/Vibrato.cpp
+END
+FM.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/FM.h
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3914/trunk/src/marsyas/Thread.cpp
+END
+static_vq_codebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4098/trunk/src/marsyas/static_vq_codebook.h
+END
+AimBoxes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimBoxes.h
+END
+Deinterleave.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3926/trunk/src/marsyas/Deinterleave.h
+END
+MFCC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3840/trunk/src/marsyas/MFCC.h
+END
+Conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4537/trunk/src/marsyas/Conversions.h
+END
+Expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/Expr.cpp
+END
+marosvg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/marosvg.cpp
+END
+PeakRatio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4305/trunk/src/marsyas/PeakRatio.cpp
+END
+ExVal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/ExVal.cpp
+END
+Reassign.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Reassign.h
+END
+CompExp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/CompExp.h
+END
+Mono2Stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Mono2Stereo.h
+END
+LPCC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4183/trunk/src/marsyas/LPCC.cpp
+END
+HarmonicStrength.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4662/trunk/src/marsyas/HarmonicStrength.h
+END
+StereoSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/StereoSpectrum.cpp
+END
+ExScanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/ExScanner.cpp
+END
+mididevices.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/mididevices.h
+END
+OggFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/OggFileSource.cpp
+END
+SOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SOM.cpp
+END
+DTWWD.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/3680/trunk/src/marsyas/DTWWD.h
+END
+TmSampleCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3169/trunk/src/marsyas/TmSampleCount.h
+END
+ShiftInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4711/trunk/src/marsyas/ShiftInput.h
+END
+Sum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4448/trunk/src/marsyas/Sum.cpp
+END
+MidiInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/MidiInput.h
+END
+ResampleLinear.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3828/trunk/src/marsyas/ResampleLinear.h
+END
+PCA.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3411/trunk/src/marsyas/PCA.h
+END
+Memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4442/trunk/src/marsyas/Memory.h
+END
+F0Analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3501/trunk/src/marsyas/F0Analysis.h
+END
+Reverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Reverse.h
+END
+PvMultiResolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PvMultiResolution.cpp
+END
+PowerSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3608/trunk/src/marsyas/PowerSpectrum.h
+END
+Polar2Cartesian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Polar2Cartesian.cpp
+END
+Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4022/trunk/src/marsyas/Filter.h
+END
+BeatPhase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4506/trunk/src/marsyas/BeatPhase.cpp
+END
+AimGammatone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4467/trunk/src/marsyas/AimGammatone.cpp
+END
+PeakViewMerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4266/trunk/src/marsyas/PeakViewMerge.h
+END
+Communicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Communicator.cpp
+END
+Shredder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4455/trunk/src/marsyas/Shredder.cpp
+END
+WavFileSource2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/WavFileSource2.cpp
+END
+ResampleLinear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/ResampleLinear.cpp
+END
+PCA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PCA.cpp
+END
+MarFileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MarFileSink.cpp
+END
+NormMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3542/trunk/src/marsyas/NormMatrix.h
+END
+Differentiator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4172/trunk/src/marsyas/Differentiator.cpp
+END
+MarControlAccessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4035/trunk/src/marsyas/MarControlAccessor.h
+END
+PhaseLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4711/trunk/src/marsyas/PhaseLock.cpp
+END
+ZeroCrossings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4498/trunk/src/marsyas/ZeroCrossings.cpp
+END
+FMeasure.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4255/trunk/src/marsyas/FMeasure.h
+END
+PeakResidual.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4207/trunk/src/marsyas/PeakResidual.h
+END
+MeddisHairCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/MeddisHairCell.h
+END
+SliceDelta.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3511/trunk/src/marsyas/SliceDelta.h
+END
+TmControlValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/TmControlValue.cpp
+END
+general.doxy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4460/trunk/src/marsyas/general.doxy
+END
+AutoCorrelationFFT.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3860/trunk/src/marsyas/AutoCorrelationFFT.h
+END
+WavFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4210/trunk/src/marsyas/WavFileSource.h
+END
+ClassificationReport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4652/trunk/src/marsyas/ClassificationReport.cpp
+END
+StereoSpectrumFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/StereoSpectrumFeatures.h
+END
+ExCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4455/trunk/src/marsyas/ExCommon.h
+END
+dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/dsound.h
+END
+PhiSEMSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PhiSEMSource.cpp
+END
+EvExpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/EvExpr.cpp
+END
+Limiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Limiter.h
+END
+OneRClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4404/trunk/src/marsyas/OneRClassifier.h
+END
+Scheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Scheduler.cpp
+END
+OrcaSnip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4276/trunk/src/marsyas/OrcaSnip.cpp
+END
+MarSystemManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4687/trunk/src/marsyas/MarSystemManager.cpp
+END
+ConstQFiltering.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3681/trunk/src/marsyas/ConstQFiltering.h
+END
+CollectionFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4442/trunk/src/marsyas/CollectionFileSource.h
+END
+QGMMModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/QGMMModel.cpp
+END
+StereoSpectrumFeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/StereoSpectrumFeatures.cpp
+END
+AubioYin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3957/trunk/src/marsyas/AubioYin.h
+END
+SineSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4720/trunk/src/marsyas/SineSource.h
+END
+LPCC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/LPCC.h
+END
+EvGetUpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3178/trunk/src/marsyas/EvGetUpd.h
+END
+Kurtosis.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Kurtosis.h
+END
+SelfSimilarityMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3798/trunk/src/marsyas/SelfSimilarityMatrix.h
+END
+AimLocalMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimLocalMax.h
+END
+Confidence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/Confidence.cpp
+END
+PeakDistanceHorizontality.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4266/trunk/src/marsyas/PeakDistanceHorizontality.h
+END
+Normalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Normalize.cpp
+END
+Transposer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Transposer.cpp
+END
+Panorama.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Panorama.h
+END
+TmVirtualTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/TmVirtualTime.cpp
+END
+PeakLabeler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3219/trunk/src/marsyas/PeakLabeler.h
+END
+StretchLinear.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/StretchLinear.h
+END
+ERB.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/ERB.h
+END
+WaveletBands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/WaveletBands.cpp
+END
+fft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/fft.cpp
+END
+MarControlManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/MarControlManager.h
+END
+AbsSoundFileSource2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AbsSoundFileSource2.cpp
+END
+WekaData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4616/trunk/src/marsyas/WekaData.cpp
+END
+EvGetUpd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/EvGetUpd.cpp
+END
+Kurtosis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4183/trunk/src/marsyas/Kurtosis.cpp
+END
+Accumulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4444/trunk/src/marsyas/Accumulator.h
+END
+lu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/lu.h
+END
+QGMMModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/QGMMModel.h
+END
+Esitar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/Esitar.cpp
+END
+PowerToAverageRatio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4352/trunk/src/marsyas/PowerToAverageRatio.cpp
+END
+PWMSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4667/trunk/src/marsyas/PWMSource.h
+END
+MATLABengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3957/trunk/src/marsyas/MATLABengine.h
+END
+BeatHistogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3846/trunk/src/marsyas/BeatHistogram.h
+END
+ExParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3959/trunk/src/marsyas/ExParser.h
+END
+Combinator.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3975/trunk/src/marsyas/Combinator.h
+END
+FlowThru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4455/trunk/src/marsyas/FlowThru.cpp
+END
+SimilarityMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SimilarityMatrix.cpp
+END
+Envelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/Envelope.cpp
+END
+SVMClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4418/trunk/src/marsyas/SVMClassifier.h
+END
+maroxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/maroxml.cpp
+END
+EnhADRess.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/EnhADRess.h
+END
+realvec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4453/trunk/src/marsyas/realvec.cpp
+END
+Pitch2Chroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3515/trunk/src/marsyas/Pitch2Chroma.h
+END
+ParallelMatrixWeight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4222/trunk/src/marsyas/ParallelMatrixWeight.cpp
+END
+RunningStatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/RunningStatistics.cpp
+END
+MidiFileSynthSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/MidiFileSynthSource.h
+END
+MaxMin.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3615/trunk/src/marsyas/MaxMin.h
+END
+ResampleNearestNeighbour.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3949/trunk/src/marsyas/ResampleNearestNeighbour.h
+END
+SeneffEar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/SeneffEar.h
+END
+RealvecSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/RealvecSink.cpp
+END
+PeakSynthFFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4242/trunk/src/marsyas/PeakSynthFFT.cpp
+END
+marsyas_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4480/trunk/src/marsyas/marsyas_types.h
+END
+TranscriberExtract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4083/trunk/src/marsyas/TranscriberExtract.cpp
+END
+GStreamerSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/GStreamerSource.cpp
+END
+DCSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4671/trunk/src/marsyas/DCSource.h
+END
+Chroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3680/trunk/src/marsyas/Chroma.h
+END
+ClassOutputSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/ClassOutputSink.h
+END
+EnhADRessStereoSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/EnhADRessStereoSpectrum.cpp
+END
+Pitch2Chroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Pitch2Chroma.cpp
+END
+Filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/Filter.cpp
+END
+Median.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/Median.cpp
+END
+marojson.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3764/trunk/src/marsyas/marojson.h
+END
+NoiseSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/NoiseSource.cpp
+END
+AimPZFC.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimPZFC.h
+END
+DeltaFirstOrderRegression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/4404/trunk/src/marsyas/DeltaFirstOrderRegression.cpp
+END
+ViconFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/ViconFileSource.cpp
+END
+SpectralSNR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SpectralSNR.cpp
+END
+TimeStretch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3948/trunk/src/marsyas/TimeStretch.h
+END
+TmParam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/TmParam.cpp
+END
+BICchangeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/BICchangeDetector.h
+END
+Communicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Communicator.h
+END
+Shredder.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3287/trunk/src/marsyas/Shredder.h
+END
+WavFileSource2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/WavFileSource2.h
+END
+AutoCorrelation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4722/trunk/src/marsyas/AutoCorrelation.cpp
+END
+AimPZFC2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4485/trunk/src/marsyas/AimPZFC2.cpp
+END
+CsvFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4688/trunk/src/marsyas/CsvFileSource.cpp
+END
+gst-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/gst-decode.cpp
+END
+ChromaScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/ChromaScale.cpp
+END
+TmTimerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4079/trunk/src/marsyas/TmTimerManager.h
+END
+MarControlValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4506/trunk/src/marsyas/MarControlValue.h
+END
+FullWaveRectifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/FullWaveRectifier.cpp
+END
+PeakRatio.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4152/trunk/src/marsyas/PeakRatio.h
+END
+PWMSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4667/trunk/src/marsyas/PWMSource.cpp
+END
+ExVal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/3897/trunk/src/marsyas/ExVal.h
+END
+ExCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3957/trunk/src/marsyas/ExCommon.cpp
+END
+AbsSoundFileSource2.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/AbsSoundFileSource2.h
+END
+WekaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/WekaData.h
+END
+NormCut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4479/trunk/src/marsyas/NormCut.cpp
+END
+GMMClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4209/trunk/src/marsyas/GMMClassifier.h
+END
+Series.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4455/trunk/src/marsyas/Series.cpp
+END
+PvConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PvConvert.h
+END
+Fanin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/Fanin.cpp
+END
+Compressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/Compressor.cpp
+END
+DTW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/DTW.cpp
+END
+CommandLineOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/CommandLineOptions.cpp
+END
+SMO.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/SMO.h
+END
+Limiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4183/trunk/src/marsyas/Limiter.cpp
+END
+Centroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4429/trunk/src/marsyas/Centroid.cpp
+END
+ExSymTbl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/ExSymTbl.cpp
+END
+ResampleBezier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/ResampleBezier.cpp
+END
+SCF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SCF.cpp
+END
+WekaSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4724/trunk/src/marsyas/WekaSink.cpp
+END
+RawFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/RawFileSource.h
+END
+GaussianClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4302/trunk/src/marsyas/GaussianClassifier.cpp
+END
+Repeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Repeat.cpp
+END
+PeakConvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4465/trunk/src/marsyas/PeakConvert.cpp
+END
+AimVQ.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/AimVQ.h
+END
+SpectralFlatnessAllBands.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4353/trunk/src/marsyas/SpectralFlatnessAllBands.h
+END
+SelfSimilarityMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SelfSimilarityMatrix.cpp
+END
+realvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4198/trunk/src/marsyas/realvec.h
+END
+FullWaveRectifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3527/trunk/src/marsyas/FullWaveRectifier.h
+END
+Metric.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Metric.h
+END
+PhiSEMFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PhiSEMFilter.cpp
+END
+ShiftOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/ShiftOutput.cpp
+END
+RealvecSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4405/trunk/src/marsyas/RealvecSource.cpp
+END
+AimGammatone.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimGammatone.h
+END
+Normalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Normalize.h
+END
+Transposer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3879/trunk/src/marsyas/Transposer.h
+END
+CommandLineOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3893/trunk/src/marsyas/CommandLineOptions.h
+END
+AimBoxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4164/trunk/src/marsyas/AimBoxes.cpp
+END
+Deinterleave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4172/trunk/src/marsyas/Deinterleave.cpp
+END
+RunningAutocorrelation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/RunningAutocorrelation.cpp
+END
+MathPower.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4404/trunk/src/marsyas/MathPower.h
+END
+AMDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/AMDF.h
+END
+Transcriber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4036/trunk/src/marsyas/Transcriber.cpp
+END
+ADRess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4421/trunk/src/marsyas/ADRess.cpp
+END
+TimeFreqPeakConnectivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4233/trunk/src/marsyas/TimeFreqPeakConnectivity.h
+END
+TmTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/TmTimer.cpp
+END
+Metric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/Metric.cpp
+END
+Expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4455/trunk/src/marsyas/Expr.h
+END
+marosvg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/marosvg.h
+END
+EnhADRessStereoSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/EnhADRessStereoSpectrum.h
+END
+Cartesian2Polar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/Cartesian2Polar.cpp
+END
+Collection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4607/trunk/src/marsyas/Collection.cpp
+END
+KNNClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4183/trunk/src/marsyas/KNNClassifier.cpp
+END
+Plucked.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/Plucked.h
+END
+PeakViewSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4268/trunk/src/marsyas/PeakViewSource.cpp
+END
+vmblock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/vmblock.cpp
+END
+NumericLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4478/trunk/src/marsyas/NumericLib.h
+END
+MixToMono.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3576/trunk/src/marsyas/MixToMono.h
+END
+SOM.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3413/trunk/src/marsyas/SOM.h
+END
+TmParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/TmParam.h
+END
+RealvecSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3388/trunk/src/marsyas/RealvecSource.h
+END
+ArffFileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3513/trunk/src/marsyas/ArffFileSink.h
+END
+DeInterleaveSizecontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3926/trunk/src/marsyas/DeInterleaveSizecontrol.h
+END
+Krumhansl_key_finder.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4629/trunk/src/marsyas/Krumhansl_key_finder.h
+END
+HarmonicEnhancer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/HarmonicEnhancer.h
+END
+UpdatingBassModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3681/trunk/src/marsyas/UpdatingBassModel.h
+END
+peakView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4268/trunk/src/marsyas/peakView.cpp
+END
+AimHCL2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4448/trunk/src/marsyas/AimHCL2.cpp
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/1954/trunk/src/marsyas/config.h.in
+END
+PeakSynthOsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3219/trunk/src/marsyas/PeakSynthOsc.h
+END
+Mean.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/Mean.cpp
+END
+PeakClusterSelect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4266/trunk/src/marsyas/PeakClusterSelect.cpp
+END
+MarSystemTemplateBasic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MarSystemTemplateBasic.cpp
+END
+MarSystemManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4357/trunk/src/marsyas/MarSystemManager.h
+END
+ChromaScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3695/trunk/src/marsyas/ChromaScale.h
+END
+Delta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/Delta.cpp
+END
+PvFold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4472/trunk/src/marsyas/PvFold.cpp
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4538/trunk/src/marsyas/statistics.cpp
+END
+Parallel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4677/trunk/src/marsyas/Parallel.cpp
+END
+PvUnconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PvUnconvert.h
+END
+ADSR.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/ADSR.h
+END
+AbsSoundFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AbsSoundFileSource.cpp
+END
+CrossCorrelation.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3799/trunk/src/marsyas/CrossCorrelation.h
+END
+Rms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4496/trunk/src/marsyas/Rms.cpp
+END
+ArffFileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/ArffFileSink.cpp
+END
+DeInterleaveSizecontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4172/trunk/src/marsyas/DeInterleaveSizecontrol.cpp
+END
+Krumhansl_key_finder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4629/trunk/src/marsyas/Krumhansl_key_finder.cpp
+END
+FMeasure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4266/trunk/src/marsyas/FMeasure.cpp
+END
+Conversions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4537/trunk/src/marsyas/Conversions.cpp
+END
+MFCC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4505/trunk/src/marsyas/MFCC.cpp
+END
+AbsMax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4368/trunk/src/marsyas/AbsMax.cpp
+END
+ZeroRClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/1954/trunk/src/marsyas/ZeroRClassifier.h
+END
+SoundFileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SoundFileSink.cpp
+END
+CARFAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4603/trunk/src/marsyas/CARFAC.cpp
+END
+MarControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4505/trunk/src/marsyas/MarControl.cpp
+END
+OverlapAdd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/OverlapAdd.cpp
+END
+MinArgMin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MinArgMin.cpp
+END
+ExNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/ExNode.cpp
+END
+WHaSp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/WHaSp.cpp
+END
+TmControlValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3895/trunk/src/marsyas/TmControlValue.h
+END
+WaveletBands.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3526/trunk/src/marsyas/WaveletBands.h
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3959/trunk/src/marsyas/fft.h
+END
+PeakConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PeakConvert.h
+END
+MATLABengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MATLABengine.cpp
+END
+PeakClusterSelect.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PeakClusterSelect.h
+END
+MarSystemTemplateBasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4093/trunk/src/marsyas/MarSystemTemplateBasic.h
+END
+MP3FileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/MP3FileSink.h
+END
+Delay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4215/trunk/src/marsyas/Delay.cpp
+END
+DownSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3525/trunk/src/marsyas/DownSampler.h
+END
+PeakFeatureSelect.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3978/trunk/src/marsyas/PeakFeatureSelect.h
+END
+OggFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/OggFileSource.h
+END
+SpectralSNR.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/SpectralSNR.h
+END
+Memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4488/trunk/src/marsyas/Memory.cpp
+END
+Annotator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/Annotator.h
+END
+MarSystemTemplateAdvanced.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/MarSystemTemplateAdvanced.h
+END
+EvEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/EvEvent.cpp
+END
+WekaSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4641/trunk/src/marsyas/WekaSource.h
+END
+Inject.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4417/trunk/src/marsyas/Inject.h
+END
+Scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/Scheduler.h
+END
+OrcaSnip.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4276/trunk/src/marsyas/OrcaSnip.h
+END
+maroxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/maroxml.h
+END
+GMMClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/GMMClassifier.cpp
+END
+ADRess.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4421/trunk/src/marsyas/ADRess.h
+END
+TmTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/TmTimer.h
+END
+AimLocalMax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4477/trunk/src/marsyas/AimLocalMax.cpp
+END
+ExNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/ExNode.h
+END
+WHaSp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/WHaSp.h
+END
+NormMaxMin.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3951/trunk/src/marsyas/NormMaxMin.h
+END
+AuFileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4470/trunk/src/marsyas/AuFileSink.cpp
+END
+HalfWaveRectifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/HalfWaveRectifier.cpp
+END
+EvValUpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/EvValUpd.h
+END
+Power.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4368/trunk/src/marsyas/Power.cpp
+END
+TimelineLabeler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/TimelineLabeler.cpp
+END
+Yin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4685/trunk/src/marsyas/Yin.cpp
+END
+BeatHistogramFromPeaks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4170/trunk/src/marsyas/BeatHistogramFromPeaks.cpp
+END
+HarmonicEnhancer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/HarmonicEnhancer.cpp
+END
+PeakLabeler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4242/trunk/src/marsyas/PeakLabeler.cpp
+END
+StretchLinear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/StretchLinear.cpp
+END
+AbsSoundFileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3919/trunk/src/marsyas/AbsSoundFileSink.h
+END
+LyonPassiveEar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3959/trunk/src/marsyas/LyonPassiveEar.h
+END
+Shifter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Shifter.h
+END
+RadioDrumInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/RadioDrumInput.h
+END
+Resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3969/trunk/src/marsyas/Resample.h
+END
+NoiseGate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/NoiseGate.cpp
+END
+MP3FileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/MP3FileSource.cpp
+END
+FileName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4273/trunk/src/marsyas/FileName.cpp
+END
+groups.doxy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4461/trunk/src/marsyas/groups.doxy
+END
+Repeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/Repeat.h
+END
+DTWWD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/DTWWD.cpp
+END
+PvOscBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3348/trunk/src/marsyas/PvOscBank.h
+END
+PvOverlapadd.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3298/trunk/src/marsyas/PvOverlapadd.h
+END
+MemorySource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3012/trunk/src/marsyas/MemorySource.h
+END
+OnsetTimes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/OnsetTimes.h
+END
+TmTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3175/trunk/src/marsyas/TmTime.cpp
+END
+SilenceRemove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SilenceRemove.cpp
+END
+Spectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Spectrum.cpp
+END
+AbsSoundFileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AbsSoundFileSink.cpp
+END
+ViconFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/ViconFileSource.h
+END
+Rms.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Rms.h
+END
+OneRClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4404/trunk/src/marsyas/OneRClassifier.cpp
+END
+F0Analysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4185/trunk/src/marsyas/F0Analysis.cpp
+END
+Norm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3541/trunk/src/marsyas/Norm.h
+END
+MP3FileSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MP3FileSink.cpp
+END
+PvConvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4472/trunk/src/marsyas/PvConvert.cpp
+END
+OverlapAdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4032/trunk/src/marsyas/OverlapAdd.h
+END
+MinArgMin.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/MinArgMin.h
+END
+SFM.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/SFM.h
+END
+AudioSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4687/trunk/src/marsyas/AudioSink.h
+END
+Talk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Talk.cpp
+END
+Fanout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4354/trunk/src/marsyas/Fanout.cpp
+END
+BeatAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/BeatAgent.h
+END
+SoundFileSource2.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/SoundFileSource2.h
+END
+BeatPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4415/trunk/src/marsyas/BeatPhase.h
+END
+Confidence.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Confidence.h
+END
+UpdatingBassModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/UpdatingBassModel.cpp
+END
+DCSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4671/trunk/src/marsyas/DCSource.cpp
+END
+Spectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3608/trunk/src/marsyas/Spectrum.h
+END
+ERB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/ERB.cpp
+END
+PeakResidual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4207/trunk/src/marsyas/PeakResidual.cpp
+END
+MeddisHairCell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MeddisHairCell.cpp
+END
+SliceDelta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/SliceDelta.cpp
+END
+SliceShuffle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SliceShuffle.cpp
+END
+BeatReferee.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4721/trunk/src/marsyas/BeatReferee.h
+END
+SoundFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/SoundFileSource.h
+END
+GaussianClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3691/trunk/src/marsyas/GaussianClassifier.h
+END
+Mean.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Mean.h
+END
+PeakMask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PeakMask.cpp
+END
+Unfold.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4073/trunk/src/marsyas/Unfold.h
+END
+StrobeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4079/trunk/src/marsyas/StrobeList.h
+END
+AveragingPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/AveragingPattern.cpp
+END
+SNR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4227/trunk/src/marsyas/SNR.cpp
+END
+NoiseSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/NoiseSource.h
+END
+DeltaFirstOrderRegression.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4258/trunk/src/marsyas/DeltaFirstOrderRegression.h
+END
+LyonPassiveEar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4543/trunk/src/marsyas/LyonPassiveEar.cpp
+END
+Shifter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Shifter.cpp
+END
+MathPower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4404/trunk/src/marsyas/MathPower.cpp
+END
+BeatHistogramFromPeaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3846/trunk/src/marsyas/BeatHistogramFromPeaks.h
+END
+RBF.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/RBF.h
+END
+Flux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4711/trunk/src/marsyas/Flux.cpp
+END
+Gain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4504/trunk/src/marsyas/Gain.cpp
+END
+ANN_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/ANN_node.cpp
+END
+HWPS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4185/trunk/src/marsyas/HWPS.cpp
+END
+Envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Envelope.h
+END
+gst-decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3957/trunk/src/marsyas/gst-decode.h
+END
+MarControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4505/trunk/src/marsyas/MarControl.h
+END
+ResampleSinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3968/trunk/src/marsyas/ResampleSinc.h
+END
+AuFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4025/trunk/src/marsyas/AuFileSource.h
+END
+PeakPeriods2BPM.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3802/trunk/src/marsyas/PeakPeriods2BPM.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4420/trunk/src/marsyas/common.h
+END
+TempoHypotheses.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/TempoHypotheses.cpp
+END
+Signum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Signum.cpp
+END
+DTW.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3947/trunk/src/marsyas/DTW.h
+END
+Annotator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/Annotator.cpp
+END
+SNR.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3422/trunk/src/marsyas/SNR.h
+END
+SimulMaskingFft.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4215/trunk/src/marsyas/SimulMaskingFft.h
+END
+AutoCorrelationFFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AutoCorrelationFFT.cpp
+END
+Reassign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Reassign.cpp
+END
+CompExp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/CompExp.cpp
+END
+TimeLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4591/trunk/src/marsyas/TimeLine.h
+END
+AimHCL2.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4374/trunk/src/marsyas/AimHCL2.h
+END
+NormMaxMin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/NormMaxMin.cpp
+END
+FanOutIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/FanOutIn.h
+END
+marojson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3764/trunk/src/marsyas/marojson.cpp
+END
+BeatHistogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4414/trunk/src/marsyas/BeatHistogram.cpp
+END
+ExParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3144/trunk/src/marsyas/ExParser.cpp
+END
+PeakerAdaptive.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PeakerAdaptive.h
+END
+TmSampleCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3169/trunk/src/marsyas/TmSampleCount.cpp
+END
+Subtract.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3459/trunk/src/marsyas/Subtract.h
+END
+StereoSpectrumSources.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/StereoSpectrumSources.h
+END
+SubtractMean.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3859/trunk/src/marsyas/SubtractMean.h
+END
+McAulayQuatieri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/McAulayQuatieri.cpp
+END
+PitchDiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4407/trunk/src/marsyas/PitchDiff.cpp
+END
+Median.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3417/trunk/src/marsyas/Median.h
+END
+Skewness.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Skewness.cpp
+END
+ShiftOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/ShiftOutput.h
+END
+SimulMaskingFft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4223/trunk/src/marsyas/SimulMaskingFft.cpp
+END
+AbsSoundFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/AbsSoundFileSource.h
+END
+ZeroRClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/ZeroRClassifier.cpp
+END
+AMDF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AMDF.cpp
+END
+Signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3499/trunk/src/marsyas/Signum.h
+END
+Metric2.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/Metric2.h
+END
+Reverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4383/trunk/src/marsyas/Reverse.cpp
+END
+Product.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Product.cpp
+END
+FanOutIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/FanOutIn.cpp
+END
+Transcriber.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4079/trunk/src/marsyas/Transcriber.h
+END
+CARFAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4595/trunk/src/marsyas/CARFAC.h
+END
+MP3FileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4490/trunk/src/marsyas/MP3FileSource.h
+END
+FileName.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4249/trunk/src/marsyas/FileName.h
+END
+Plucked.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Plucked.cpp
+END
+MidiFileSynthSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MidiFileSynthSource.cpp
+END
+MaxMin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MaxMin.cpp
+END
+MaxArgMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/MaxArgMax.h
+END
+PeakViewMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4269/trunk/src/marsyas/PeakViewMerge.cpp
+END
+RemoveObservations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4371/trunk/src/marsyas/RemoveObservations.cpp
+END
+AimHCL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4467/trunk/src/marsyas/AimHCL.cpp
+END
+PeakViewSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4452/trunk/src/marsyas/PeakViewSink.cpp
+END
+SilenceRemove.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/SilenceRemove.h
+END
+MarSystemTemplateAdvanced.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MarSystemTemplateAdvanced.cpp
+END
+AveragingPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/AveragingPattern.h
+END
+Skewness.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Skewness.h
+END
+PeakConvert2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4218/trunk/src/marsyas/PeakConvert2.h
+END
+MrsLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4420/trunk/src/marsyas/MrsLog.h
+END
+Chroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/Chroma.cpp
+END
+Mono2Stereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Mono2Stereo.cpp
+END
+LPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4183/trunk/src/marsyas/LPC.cpp
+END
+Spectrum2Chroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4305/trunk/src/marsyas/Spectrum2Chroma.cpp
+END
+InvSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/InvSpectrum.cpp
+END
+ZeroCrossings.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/ZeroCrossings.h
+END
+SFM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SFM.cpp
+END
+ANN_node.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/ANN_node.h
+END
+EvValUpd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4173/trunk/src/marsyas/EvValUpd.cpp
+END
+HWPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/HWPS.h
+END
+AimPZFC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4485/trunk/src/marsyas/AimPZFC.cpp
+END
+SoundFileSourceHopper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3825/trunk/src/marsyas/SoundFileSourceHopper.h
+END
+WaveletPyramid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/WaveletPyramid.cpp
+END
+OnePole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/OnePole.cpp
+END
+Stk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Stk.cpp
+END
+PeakConvert2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4251/trunk/src/marsyas/PeakConvert2.cpp
+END
+MrsLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4456/trunk/src/marsyas/MrsLog.cpp
+END
+Yin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/4685/trunk/src/marsyas/Yin.h
+END
+RadioDrumInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/RadioDrumInput.cpp
+END
+WaveletStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3959/trunk/src/marsyas/WaveletStep.h
+END
+SVMClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4657/trunk/src/marsyas/SVMClassifier.cpp
+END
+ConstQFiltering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4528/trunk/src/marsyas/ConstQFiltering.cpp
+END
+Peaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3891/trunk/src/marsyas/Peaker.h
+END
+PeakSynthOscBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PeakSynthOscBank.h
+END
+Color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Color.cpp
+END
+SimilarityMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3798/trunk/src/marsyas/SimilarityMatrix.h
+END
+CsvFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4624/trunk/src/marsyas/CsvFileSource.h
+END
+PvOscBank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4472/trunk/src/marsyas/PvOscBank.cpp
+END
+AimSSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4324/trunk/src/marsyas/AimSSI.h
+END
+PeakDistanceHorizontality.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/4266/trunk/src/marsyas/PeakDistanceHorizontality.cpp
+END
+NormalizeAbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4331/trunk/src/marsyas/NormalizeAbs.h
+END
+SpectralTransformations.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/SpectralTransformations.h
+END
+Polar2Cartesian.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Polar2Cartesian.h
+END
+Daub4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4172/trunk/src/marsyas/Daub4.cpp
+END
+RunningStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3872/trunk/src/marsyas/RunningStatistics.h
+END
+Compressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3459/trunk/src/marsyas/Compressor.h
+END
+BeatTimesSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/BeatTimesSink.cpp
+END
+vmblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/vmblock.h
+END
+Delay.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4215/trunk/src/marsyas/Delay.h
+END
+WaveletStep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/WaveletStep.cpp
+END
+TmTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3896/trunk/src/marsyas/TmTime.h
+END
+MarControlManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MarControlManager.cpp
+END
+PhaseLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/PhaseLock.h
+END
+BeatHistoFeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4489/trunk/src/marsyas/BeatHistoFeatures.cpp
+END
+WekaSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4668/trunk/src/marsyas/WekaSink.h
+END
+ResampleSinc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/ResampleSinc.cpp
+END
+AudioSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4724/trunk/src/marsyas/AudioSink.cpp
+END
+MatchBassModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3681/trunk/src/marsyas/MatchBassModel.h
+END
+Clip.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3786/trunk/src/marsyas/Clip.h
+END
+ShiftInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4722/trunk/src/marsyas/ShiftInput.cpp
+END
+Square.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Square.cpp
+END
+TempoHypotheses.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/TempoHypotheses.h
+END
+BeatTimesSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/BeatTimesSink.h
+END
+StandardDeviation.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/StandardDeviation.h
+END
+CollectionFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4580/trunk/src/marsyas/CollectionFileSource.cpp
+END
+EvExpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3178/trunk/src/marsyas/EvExpr.h
+END
+FlowThru.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4463/trunk/src/marsyas/FlowThru.h
+END
+AimPZFC2.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4389/trunk/src/marsyas/AimPZFC2.h
+END
+MeanAbsoluteDeviation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4330/trunk/src/marsyas/MeanAbsoluteDeviation.cpp
+END
+SoundFileSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3678/trunk/src/marsyas/SoundFileSink.h
+END
+NoiseGate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/NoiseGate.h
+END
+PeakerAdaptive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4629/trunk/src/marsyas/PeakerAdaptive.cpp
+END
+PvOverlapadd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PvOverlapadd.cpp
+END
+DelaySamples.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4261/trunk/src/marsyas/DelaySamples.h
+END
+marohtml.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/marohtml.h
+END
+Peak2Rms.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Peak2Rms.h
+END
+NumericLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4478/trunk/src/marsyas/NumericLib.cpp
+END
+MixToMono.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MixToMono.cpp
+END
+ADRessStereoSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4422/trunk/src/marsyas/ADRessStereoSpectrum.h
+END
+LSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4183/trunk/src/marsyas/LSP.cpp
+END
+Fanin.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Fanin.h
+END
+PeakViewSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4268/trunk/src/marsyas/PeakViewSource.h
+END
+StandardDeviation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/StandardDeviation.cpp
+END
+PitchDiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4404/trunk/src/marsyas/PitchDiff.h
+END
+Metric2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/Metric2.cpp
+END
+OnePole.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3530/trunk/src/marsyas/OnePole.h
+END
+Stk.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3225/trunk/src/marsyas/Stk.h
+END
+MidiOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/MidiOutput.h
+END
+WekaSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4641/trunk/src/marsyas/WekaSource.cpp
+END
+RawFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4323/trunk/src/marsyas/RawFileSource.cpp
+END
+ClassOutputSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/ClassOutputSink.cpp
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3914/trunk/src/marsyas/Thread.h
+END
+GStreamerSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/GStreamerSource.h
+END
+SCF.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/SCF.h
+END
+DelaySamples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4264/trunk/src/marsyas/DelaySamples.cpp
+END
+marohtml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/marohtml.cpp
+END
+Product.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Product.h
+END
+MaxArgMax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4393/trunk/src/marsyas/MaxArgMax.cpp
+END
+AuFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/AuFileSource.cpp
+END
+MeanAbsoluteDeviation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4330/trunk/src/marsyas/MeanAbsoluteDeviation.h
+END
+PvUnconvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PvUnconvert.cpp
+END
+ADSR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4420/trunk/src/marsyas/ADSR.cpp
+END
+marostring.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/marostring.h
+END
+TimeStretch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/TimeStretch.cpp
+END
+PowerToAverageRatio.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4352/trunk/src/marsyas/PowerToAverageRatio.h
+END
+Spectrum2ACMChroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Spectrum2ACMChroma.cpp
+END
+PhiSEMFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PhiSEMFilter.h
+END
+Parallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Parallel.h
+END
+TimelineLabeler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/TimelineLabeler.h
+END
+MidiOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MidiOutput.cpp
+END
+PeakViewSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PeakViewSink.h
+END
+TimeLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4724/trunk/src/marsyas/TimeLine.cpp
+END
+Resample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Resample.cpp
+END
+MedianFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3515/trunk/src/marsyas/MedianFilter.h
+END
+FlowCutSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/FlowCutSource.h
+END
+EnhADRess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4185/trunk/src/marsyas/EnhADRess.cpp
+END
+AutoCorrelation.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4722/trunk/src/marsyas/AutoCorrelation.h
+END
+RunningAutocorrelation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3853/trunk/src/marsyas/RunningAutocorrelation.h
+END
+AudioSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AudioSource.cpp
+END
+BeatHistoFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4118/trunk/src/marsyas/BeatHistoFeatures.h
+END
+Unfold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4193/trunk/src/marsyas/Unfold.cpp
+END
+Reciprocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/3368/trunk/src/marsyas/Reciprocal.h
+END
+PatchMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4543/trunk/src/marsyas/PatchMatrix.h
+END
+ParallelMatrixWeight.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4000/trunk/src/marsyas/ParallelMatrixWeight.h
+END
+AccentFilterBank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AccentFilterBank.cpp
+END
+AudioSinkBlocking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4687/trunk/src/marsyas/AudioSinkBlocking.cpp
+END
+Series.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4463/trunk/src/marsyas/Series.h
+END
+Collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4580/trunk/src/marsyas/Collection.h
+END
+KNNClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/KNNClassifier.h
+END
+PvConvolve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PvConvolve.cpp
+END
+Negative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Negative.cpp
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3447/trunk/src/marsyas/Doxyfile
+END
+MedianFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MedianFilter.cpp
+END
+McAulayQuatieri.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/McAulayQuatieri.h
+END
+CARFAC_coeffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4588/trunk/src/marsyas/CARFAC_coeffs.h
+END
+Windowing.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3606/trunk/src/marsyas/Windowing.h
+END
+Vibrato.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Vibrato.h
+END
+TranscriberExtract.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4036/trunk/src/marsyas/TranscriberExtract.h
+END
+WavFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/WavFileSource.cpp
+END
+HarmonicStrength.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4662/trunk/src/marsyas/HarmonicStrength.cpp
+END
+Selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Selector.cpp
+END
+peakView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4268/trunk/src/marsyas/peakView.h
+END
+MarSystemTemplateMedium.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MarSystemTemplateMedium.cpp
+END
+EvEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3739/trunk/src/marsyas/EvEvent.h
+END
+Spectrum2Mel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Spectrum2Mel.cpp
+END
+Reciprocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Reciprocal.cpp
+END
+Flux.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/Flux.h
+END
+Gain.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4504/trunk/src/marsyas/Gain.h
+END
+Peak2Rms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Peak2Rms.cpp
+END
+AimSSI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4164/trunk/src/marsyas/AimSSI.cpp
+END
+PeakPeriods2BPM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PeakPeriods2BPM.cpp
+END
+AudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/AudioSource.h
+END
+PeakInObservation.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3515/trunk/src/marsyas/PeakInObservation.h
+END
+PeakEnhancer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3860/trunk/src/marsyas/PeakEnhancer.h
+END
+ExScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4086/trunk/src/marsyas/ExScanner.h
+END
+ClassificationReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4652/trunk/src/marsyas/ClassificationReport.h
+END
+Combinator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4171/trunk/src/marsyas/Combinator.cpp
+END
+PeUtilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4256/trunk/src/marsyas/PeUtilities.cpp
+END
+Power.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Power.h
+END
+Negative.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3538/trunk/src/marsyas/Negative.h
+END
+Biquad.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Biquad.h
+END
+TmTimerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3190/trunk/src/marsyas/TmTimerManager.cpp
+END
+PowerSpectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4396/trunk/src/marsyas/PowerSpectrum.cpp
+END
+PeakerOnset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4452/trunk/src/marsyas/PeakerOnset.cpp
+END
+AbsMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3540/trunk/src/marsyas/AbsMax.h
+END
+Heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4019/trunk/src/marsyas/Heap.h
+END
+PeakInObservation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PeakInObservation.cpp
+END
+InvSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/InvSpectrum.h
+END
+Spectrum2Mel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Spectrum2Mel.h
+END
+Subtract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/Subtract.cpp
+END
+MemorySource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MemorySource.cpp
+END
+MarSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4592/trunk/src/marsyas/MarSystem.h
+END
+ResampleNearestNeighbour.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/ResampleNearestNeighbour.cpp
+END
+Panorama.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/Panorama.cpp
+END
+ERBTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4039/trunk/src/marsyas/ERBTools.h
+END
+basis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3955/trunk/src/marsyas/basis.cpp
+END
+FlowCutSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4182/trunk/src/marsyas/FlowCutSource.cpp
+END
+Square.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3464/trunk/src/marsyas/Square.h
+END
+PeakSynthOsc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4253/trunk/src/marsyas/PeakSynthOsc.cpp
+END
+ResampleBezier.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3968/trunk/src/marsyas/ResampleBezier.h
+END
+BaseAudioSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4170/trunk/src/marsyas/BaseAudioSink.cpp
+END
+PatchMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4211/trunk/src/marsyas/PatchMatrix.cpp
+END
+NormalizeAbs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4331/trunk/src/marsyas/NormalizeAbs.cpp
+END
+CrossCorrelation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4185/trunk/src/marsyas/CrossCorrelation.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4694/trunk/src/marsyas/CMakeLists.txt
+END
+Esitar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3928/trunk/src/marsyas/Esitar.h
+END
+BICchangeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/BICchangeDetector.cpp
+END
+PvFold.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3298/trunk/src/marsyas/PvFold.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4538/trunk/src/marsyas/statistics.h
+END
+Fanout.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3506/trunk/src/marsyas/Fanout.h
+END
+CARFAC_coeffs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4665/trunk/src/marsyas/CARFAC_coeffs.cpp
+END
+Daub4.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Daub4.h
+END
+common_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4484/trunk/src/marsyas/common_header.h
+END
+PvConvolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PvConvolve.h
+END
+BeatReferee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4721/trunk/src/marsyas/BeatReferee.cpp
+END
+ADRessSpectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4421/trunk/src/marsyas/ADRessSpectrum.h
+END
+SoundFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4578/trunk/src/marsyas/SoundFileSource.cpp
+END
+PhiSEMSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/PhiSEMSource.h
+END
+TimeFreqPeakConnectivity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4452/trunk/src/marsyas/TimeFreqPeakConnectivity.cpp
+END
+MarControlValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MarControlValue.cpp
+END
+AubioYin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4165/trunk/src/marsyas/AubioYin.cpp
+END
+SineSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4723/trunk/src/marsyas/SineSource.cpp
+END
+SliceShuffle.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3826/trunk/src/marsyas/SliceShuffle.h
+END
+LPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/LPC.h
+END
+Spectrum2Chroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/Spectrum2Chroma.h
+END
+PeakEnhancer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4197/trunk/src/marsyas/PeakEnhancer.cpp
+END
+marostring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3363/trunk/src/marsyas/marostring.cpp
+END
+MatchBassModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4190/trunk/src/marsyas/MatchBassModel.cpp
+END
+MarSystemTemplateMedium.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/marsyas/MarSystemTemplateMedium.h
+END
+SoundFileSourceHopper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4267/trunk/src/marsyas/SoundFileSourceHopper.cpp
+END
+StereoSpectrumSources.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/StereoSpectrumSources.cpp
+END
+SubtractMean.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4192/trunk/src/marsyas/SubtractMean.cpp
+END
+OnsetTimes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4708/trunk/src/marsyas/OnsetTimes.cpp
+END
+DownSampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4172/trunk/src/marsyas/DownSampler.cpp
+END

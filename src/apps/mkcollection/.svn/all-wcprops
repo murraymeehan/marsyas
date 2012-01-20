@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4545/trunk/src/apps/mkcollection
+END
+mkcollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4545/trunk/src/apps/mkcollection/mkcollection.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3723/trunk/src/apps/mkcollection/CMakeLists.txt
+END

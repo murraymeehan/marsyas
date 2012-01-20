@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/bin
+END
+clickToLaunchApp_Debug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/bin/clickToLaunchApp_Debug.sh
+END
+clickToLaunchApp_Release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/bin/clickToLaunchApp_Release.sh
+END

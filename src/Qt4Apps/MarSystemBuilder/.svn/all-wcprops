@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarSystemBuilder
+END
+MarSystemNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MarSystemNode.h
+END
+DefaultMarSystemNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/DefaultMarSystemNode.cpp
+END
+FanoutNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/FanoutNode.cpp
+END
+SeriesNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/SeriesNode.h
+END
+MarCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MarCanvas.cpp
+END
+CompositeNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/CompositeNode.h
+END
+DefaultCompositeNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/DefaultCompositeNode.cpp
+END
+borderlayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/borderlayout.h
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MainWindow.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/main.cpp
+END
+WidgetButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/WidgetButton.h
+END
+CanvasWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/CanvasWidget.h
+END
+test.mpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarSystemBuilder/test.mpl
+END
+MarSystemNodeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MarSystemNodeFactory.h
+END
+mugle.mf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarSystemBuilder/mugle.mf
+END
+GainNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/GainNode.h
+END
+MarSystemNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MarSystemNode.cpp
+END
+SeriesNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/SeriesNode.cpp
+END
+DefaultMarSystemNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/DefaultMarSystemNode.h
+END
+FanoutNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/FanoutNode.h
+END
+CompositeNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/CompositeNode.cpp
+END
+ms.arff
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarSystemBuilder/ms.arff
+END
+borderlayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/borderlayout.cpp
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MainWindow.cpp
+END
+WidgetButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/WidgetButton.cpp
+END
+CanvasWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/CanvasWidget.cpp
+END
+MarCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MarCanvas.h
+END
+MarSystemNodeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/MarSystemNodeFactory.cpp
+END
+DefaultCompositeNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/DefaultCompositeNode.h
+END
+trytest.mpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarSystemBuilder/trytest.mpl
+END
+GainNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarSystemBuilder/GainNode.cpp
+END
+other.mpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarSystemBuilder/other.mpl
+END

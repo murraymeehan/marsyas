@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarWidgets
+END
+MarLineEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarLineEdit.h
+END
+oldglwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/oldglwidget.cpp
+END
+MarWidgets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarWidgets.cpp
+END
+MarGLWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarWidgets/MarGLWidget.cpp
+END
+GlWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/GlWidget.cpp
+END
+oldglwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/oldglwidget.h
+END
+MarWidgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarWidgets.h
+END
+MarGLWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarWidgets/MarGLWidget.h
+END
+GlWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarWidgets/GlWidget.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/mainwindow.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/mainwindow.h
+END
+MarSpinBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarSpinBox.cpp
+END
+MarSlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarSlider.cpp
+END
+MarControlWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarControlWidget.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/main.cpp
+END
+MarSpinBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarSpinBox.h
+END
+MarSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarSlider.h
+END
+MarControlWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarControlWidget.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarWidgets/CMakeLists.txt
+END
+MarLineEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarWidgets/MarLineEdit.cpp
+END

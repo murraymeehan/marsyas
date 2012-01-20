@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/orcarecord
+END
+orcarecord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/orcarecord/orcarecord.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3158/trunk/src/apps/orcarecord/CMakeLists.txt
+END

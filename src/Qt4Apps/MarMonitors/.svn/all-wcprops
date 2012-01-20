@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4332/trunk/src/Qt4Apps/MarMonitors
+END
+MarMonitors.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3834/trunk/src/Qt4Apps/MarMonitors/MarMonitors.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarMonitors/main.cpp
+END
+MarMonitors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4332/trunk/src/Qt4Apps/MarMonitors/MarMonitors.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3761/trunk/src/Qt4Apps/MarMonitors/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarMonitors/README
+END

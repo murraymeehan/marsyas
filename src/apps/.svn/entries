@@ -1,0 +1,255 @@
+10
+
+dir
+4726
+https://marsyas.svn.sourceforge.net/svnroot/marsyas/trunk/src/apps
+https://marsyas.svn.sourceforge.net/svnroot/marsyas
+
+
+
+2012-01-04T22:27:13.591979Z
+4726
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0901a56d-6f15-0410-8871-f39a65de4983
+
+sound2png
+dir
+
+muggle
+dir
+
+midiTest
+dir
+
+orcarecord
+dir
+
+mkcollection
+dir
+
+sound2sound
+dir
+
+sfinfo
+dir
+
+tempo
+dir
+
+MarEditor
+dir
+
+mirex2010
+dir
+
+sfplugin
+dir
+
+peakEval
+dir
+
+speakerSeg
+dir
+
+boomchick
+dir
+
+SeneffEarTest
+dir
+
+mudbox
+dir
+
+sfplay
+dir
+
+wreckBeach
+dir
+
+textract
+dir
+
+kea
+dir
+
+sfplaygui
+dir
+
+tutorial
+dir
+
+aim
+dir
+
+peakSynth
+dir
+
+ERBTest
+dir
+
+extract
+dir
+
+vocalEffort
+dir
+
+onsets
+dir
+
+helloWorld
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-01-20T01:11:08.428849Z
+918b770eb9802f631333bb53725a5de5
+2011-09-19T17:47:24.758995Z
+4631
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2032
+
+record
+dir
+
+carfac
+dir
+
+peakClustering
+dir
+
+virtualsensor
+dir
+
+WHaSp
+dir
+
+phasevocoder
+dir
+
+mixer
+dir
+
+pitchdtw
+dir
+
+ChangeLog
+file
+
+
+
+
+2012-01-20T01:11:08.428849Z
+d0f3faeed0b83650c8f7e2d5dbeafdb6
+2007-02-14T14:45:28.364872Z
+708
+lgmartins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+314
+
+peakClusteringEval
+dir
+
+ofApps
+dir
+
+msl
+dir
+
+mirex2008
+dir
+
+helloglut
+dir
+
+regressionChecks
+dir
+
+peakClustering2
+dir
+
+pitchextract
+dir
+
+mirex2009_tsunoo
+dir
+
+audioCompare
+dir
+
+rhythmMap
+dir
+
+server_main
+dir
+
+bextract
+dir
+
+classifyFile
+dir
+
+ibt
+dir
+
+scheduler
+dir
+

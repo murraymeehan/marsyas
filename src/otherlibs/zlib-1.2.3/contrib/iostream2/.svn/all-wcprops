@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream2
+END
+zstream_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream2/zstream_test.cpp
+END
+zstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream2/zstream.h
+END

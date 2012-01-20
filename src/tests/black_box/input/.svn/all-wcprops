@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4580/trunk/src/tests/black_box/input
+END
+bd22k.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4575/trunk/src/tests/black_box/input/bd22k.wav
+END
+sd22k.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4575/trunk/src/tests/black_box/input/sd22k.wav
+END
+right.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4575/trunk/src/tests/black_box/input/right.wav
+END
+nearhou.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4575/trunk/src/tests/black_box/input/nearhou.wav
+END
+sine1000-5.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4575/trunk/src/tests/black_box/input/sine1000-5.wav
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DGraph
+END
+TopPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DGraph/TopPanel.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DGraph/main.cpp
+END
+TopPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DGraph/TopPanel.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DGraph/CMakeLists.txt
+END

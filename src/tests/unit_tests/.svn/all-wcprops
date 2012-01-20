@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4684/trunk/src/tests/unit_tests
+END
+TestAimPZFC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4459/trunk/src/tests/unit_tests/TestAimPZFC.h
+END
+TestRunningStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestRunningStatistics.h
+END
+WekaSource_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/WekaSource_runner.cpp
+END
+TestAimGammatone.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4531/trunk/src/tests/unit_tests/TestAimGammatone.h
+END
+AubioYin_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4684/trunk/src/tests/unit_tests/AubioYin_runner.cpp
+END
+Selector_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/Selector_runner.cpp
+END
+AimLocalMax_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/AimLocalMax_runner.cpp
+END
+TestAubioYin.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4684/trunk/src/tests/unit_tests/TestAubioYin.h
+END
+AimHCL_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/AimHCL_runner.cpp
+END
+TestAimLocalMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4468/trunk/src/tests/unit_tests/TestAimLocalMax.h
+END
+AimSAI_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/AimSAI_runner.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4526/trunk/src/tests/unit_tests/CMakeLists.txt
+END
+TestSubtractMean.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestSubtractMean.h
+END
+AimBoxes_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4069/trunk/src/tests/unit_tests/AimBoxes_runner.cpp
+END
+TestAimHCL.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestAimHCL.h
+END
+TestDeltaFirstOrderRegression.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestDeltaFirstOrderRegression.h
+END
+RunningAutocorrelation_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/RunningAutocorrelation_runner.cpp
+END
+TestAimSAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestAimSAI.h
+END
+CARFAC_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4526/trunk/src/tests/unit_tests/CARFAC_runner.cpp
+END
+TestSum.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4469/trunk/src/tests/unit_tests/TestSum.h
+END
+TestAimBoxes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4153/trunk/src/tests/unit_tests/TestAimBoxes.h
+END
+DelaySamples_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/DelaySamples_runner.cpp
+END
+TestWekaSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4614/trunk/src/tests/unit_tests/TestWekaSource.h
+END
+NormMaxMin_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/NormMaxMin_runner.cpp
+END
+TestRunningAutocorrelation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestRunningAutocorrelation.h
+END
+SubtractMean_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/SubtractMean_runner.cpp
+END
+cxxtest
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3079/trunk/src/tests/unit_tests/cxxtest
+END
+AimPZFC_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/AimPZFC_runner.cpp
+END
+TestCARFAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4526/trunk/src/tests/unit_tests/TestCARFAC.h
+END
+RunningStatistics_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/RunningStatistics_runner.cpp
+END
+TestSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestSelector.h
+END
+TestSample.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4457/trunk/src/tests/unit_tests/TestSample.h
+END
+DeltaFirstOrderRegression_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/DeltaFirstOrderRegression_runner.cpp
+END
+TestDelaySamples.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4458/trunk/src/tests/unit_tests/TestDelaySamples.h
+END
+AimGammatone_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/AimGammatone_runner.cpp
+END
+TestNormMaxMin.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4457/trunk/src/tests/unit_tests/TestNormMaxMin.h
+END
+test.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4029/trunk/src/tests/unit_tests/test.wav
+END
+Sum_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4613/trunk/src/tests/unit_tests/Sum_runner.cpp
+END

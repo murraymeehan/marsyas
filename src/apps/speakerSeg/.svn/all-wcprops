@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/marsyas/!svn/ver/4431/trunk/src/apps/speakerSeg
+END
+speakerSeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4431/trunk/src/apps/speakerSeg/speakerSeg.cpp
+END
+speakerSeg2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4431/trunk/src/apps/speakerSeg/speakerSeg2.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4431/trunk/src/apps/speakerSeg/CMakeLists.txt
+END

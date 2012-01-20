@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3959/trunk/src/otherlibs/RtMidi
+END
+RtError.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/RtMidi/RtError.h
+END
+RtError3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3578/trunk/src/otherlibs/RtMidi/RtError3.h
+END
+RtMidi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3959/trunk/src/otherlibs/RtMidi/RtMidi.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2940/trunk/src/otherlibs/RtMidi/CMakeLists.txt
+END
+RtMidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3959/trunk/src/otherlibs/RtMidi/RtMidi.h
+END

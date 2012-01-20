@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/virtualsensor
+END
+virtualsensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/virtualsensor/virtualsensor.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3011/trunk/src/apps/virtualsensor/CMakeLists.txt
+END

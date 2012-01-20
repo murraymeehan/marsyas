@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/marsyas/!svn/ver/4698/trunk/src/swig
+END
+Collection.i
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3521/trunk/src/swig/Collection.i
+END
+marsystemmanager.i
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4357/trunk/src/swig/marsystemmanager.i
+END
+realvec.i
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3546/trunk/src/swig/realvec.i
+END
+marsystem.i
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4495/trunk/src/swig/marsystem.i
+END
+types.i
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/types.i
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3038/trunk/src/swig/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/README
+END
+marcontrolptr.i
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4505/trunk/src/swig/marcontrolptr.i
+END

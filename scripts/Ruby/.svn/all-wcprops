@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/marsyas/!svn/ver/4486/trunk/scripts/Ruby
+END
+generate-mtl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4310/trunk/scripts/Ruby/generate-mtl.rb
+END
+icme2011_average-precision-recall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4347/trunk/scripts/Ruby/icme2011_average-precision-recall.rb
+END
+threshold_binarization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4486/trunk/scripts/Ruby/threshold_binarization.rb
+END
+per-tag-precision-recall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3689/trunk/scripts/Ruby/per-tag-precision-recall.rb
+END
+roc-auc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3689/trunk/scripts/Ruby/roc-auc.rb
+END

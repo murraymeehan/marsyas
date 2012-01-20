@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/marsyas/!svn/ver/4707/trunk/doc
+END
+index.html.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/3470/trunk/doc/index.html.in
+END
+contributing.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3851/trunk/doc/contributing.texi
+END
+autotest.texi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/4577/trunk/doc/autotest.texi
+END
+neptune_instructions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4349/trunk/doc/neptune_instructions.txt
+END
+marsyas-devel.texi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/3363/trunk/doc/marsyas-devel.texi
+END
+neptune_modules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4541/trunk/doc/neptune_modules.txt
+END
+neptune_fileformats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4350/trunk/doc/neptune_fileformats.txt
+END
+architecture.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4585/trunk/doc/architecture.texi
+END
+programming.texi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3363/trunk/doc/programming.texi
+END
+marsyas-cookbook.texi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/marsyas-cookbook.texi
+END
+writing.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/4296/trunk/doc/writing.texi
+END
+system.texi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/3363/trunk/doc/system.texi
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/marsyas/!svn/ver/1157/trunk/doc/README
+END
+tour.texi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/marsyas/!svn/ver/3557/trunk/doc/tour.texi
+END
+marsyas-user.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4300/trunk/doc/marsyas-user.texi
+END
+intro.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/marsyas/!svn/ver/4300/trunk/doc/intro.texi
+END
+macros.itexi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/3162/trunk/doc/macros.itexi
+END
+marsyas.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/3444/trunk/doc/marsyas.css
+END
+tools.texi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/marsyas/!svn/ver/4545/trunk/doc/tools.texi
+END
+scripting.texi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3797/trunk/doc/scripting.texi
+END
+texinfo.tex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/2095/trunk/doc/texinfo.tex
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3469/trunk/doc/CMakeLists.txt
+END
+qttools.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/3363/trunk/doc/qttools.texi
+END
+install.texi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/4707/trunk/doc/install.texi
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3955/trunk/src/otherlibs/libsvm
+END
+svm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3955/trunk/src/otherlibs/libsvm/svm.cpp
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2940/trunk/src/otherlibs/libsvm/COPYRIGHT
+END
+FAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2940/trunk/src/otherlibs/libsvm/FAQ.html
+END
+svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/libsvm/svm.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2940/trunk/src/otherlibs/libsvm/README
+END

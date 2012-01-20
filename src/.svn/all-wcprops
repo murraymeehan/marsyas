@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/marsyas/!svn/ver/4726/trunk/src
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/4424/trunk/src/config.h.in
+END
+CTestConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3795/trunk/src/CTestConfig.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4695/trunk/src/CMakeLists.txt
+END

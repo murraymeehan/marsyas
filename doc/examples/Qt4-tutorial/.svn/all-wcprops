@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/examples/Qt4-tutorial
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/Qt4-tutorial/mainwindow.h
+END
+tutorial.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/examples/Qt4-tutorial/tutorial.pro
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/Qt4-tutorial/main.cpp
+END
+backend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/Qt4-tutorial/backend.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/Qt4-tutorial/README
+END
+backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/Qt4-tutorial/backend.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3122/trunk/doc/examples/Qt4-tutorial/mainwindow.cpp
+END

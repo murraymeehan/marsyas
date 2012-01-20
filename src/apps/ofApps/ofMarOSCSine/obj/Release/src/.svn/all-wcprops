@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/obj/Release/src
+END
+SoundEngine.d
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/obj/Release/src/SoundEngine.d
+END
+main.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/obj/Release/src/main.d
+END
+SineChanger.d
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/obj/Release/src/SineChanger.d
+END
+ofMarOSCSine.d
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarOSCSine/obj/Release/src/ofMarOSCSine.d
+END

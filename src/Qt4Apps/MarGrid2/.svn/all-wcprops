@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarGrid2
+END
+test-send-osc-to-margrid.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/3410/trunk/src/Qt4Apps/MarGrid2/test-send-osc-to-margrid.py
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/MainWindow.h
+END
+dev docs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3379/trunk/src/Qt4Apps/MarGrid2/dev%20docs.txt
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/main.cpp
+END
+todo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3379/trunk/src/Qt4Apps/MarGrid2/todo
+END
+user docs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3407/trunk/src/Qt4Apps/MarGrid2/user%20docs.txt
+END
+MarGrid2-figure1.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3379/trunk/src/Qt4Apps/MarGrid2/MarGrid2-figure1.png
+END
+.gdb_history
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarGrid2/.gdb_history
+END
+MarGrid2-figure2.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3379/trunk/src/Qt4Apps/MarGrid2/MarGrid2-figure2.png
+END
+MarGrid2.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/MarGrid2.qrc
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/MainWindow.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/CMakeLists.txt
+END

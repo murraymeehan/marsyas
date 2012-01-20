@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream3
+END
+zfstream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream3/zfstream.cc
+END
+zfstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream3/zfstream.h
+END
+test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream3/test.cc
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream3/TODO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/iostream3/README
+END

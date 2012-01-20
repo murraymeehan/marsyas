@@ -1,0 +1,89 @@
+10
+
+dir
+4726
+https://marsyas.svn.sourceforge.net/svnroot/marsyas/trunk/src/otherlibs
+https://marsyas.svn.sourceforge.net/svnroot/marsyas
+
+
+
+2011-11-17T18:41:41.195000Z
+4712
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0901a56d-6f15-0410-8871-f39a65de4983
+
+libpng-1.2.35
+dir
+
+zlib-1.2.3
+dir
+
+pngwriter
+dir
+
+cxxtest
+dir
+
+oscpack
+dir
+
+RtAudio
+dir
+
+RtMidi
+dir
+
+ANN
+dir
+
+libsvm
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-01-20T01:10:54.652849Z
+7827ca1330e6d635d8084b4118e460a4
+2011-09-19T17:47:24.758995Z
+4631
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+264
+

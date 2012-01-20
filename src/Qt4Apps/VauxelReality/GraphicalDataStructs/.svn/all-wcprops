@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/GraphicalDataStructs
+END
+QGLObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/GraphicalDataStructs/QGLObject.h
+END
+manipulatedFrameSetConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/GraphicalDataStructs/manipulatedFrameSetConstraint.cpp
+END
+VauxelObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/GraphicalDataStructs/VauxelObject.h
+END
+manipulatedFrameSetConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/GraphicalDataStructs/manipulatedFrameSetConstraint.h
+END
+VauxelObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/GraphicalDataStructs/VauxelObject.cpp
+END

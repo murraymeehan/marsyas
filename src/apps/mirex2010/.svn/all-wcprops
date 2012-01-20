@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/4272/trunk/src/apps/mirex2010
+END
+TrainAndClassify.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4272/trunk/src/apps/mirex2010/TrainAndClassify.rb
+END
+extractFeatures.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4166/trunk/src/apps/mirex2010/extractFeatures.rb
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4166/trunk/src/apps/mirex2010/CMakeLists.txt
+END

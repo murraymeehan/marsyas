@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/inflate86
+END
+inffas86.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/inflate86/inffas86.c
+END
+inffast.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/zlib-1.2.3/contrib/inflate86/inffast.S
+END

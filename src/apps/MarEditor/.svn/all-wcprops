@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/MarEditor
+END
+audiodeviceconfig.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/MarEditor/audiodeviceconfig.ui
+END
+audiodeviceconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/audiodeviceconfig.cpp
+END
+dockwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/dockwindow.cpp
+END
+SoundDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/SoundDevice.cpp
+END
+MarEditor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/MarEditor/MarEditor.rc
+END
+audioproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/MarEditor/audioproperties.ui
+END
+audiodeviceconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/audiodeviceconfig.h
+END
+SoundDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/SoundDevice.h
+END
+dockwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/dockwindow.h
+END
+audioproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/audioproperties.cpp
+END
+MarEditor.ico
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/MarEditor/MarEditor.ico
+END
+MarEditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/MarEditor/MarEditor.ui
+END
+audioproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/audioproperties.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/main.cpp
+END
+MarEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/MarEditor/MarEditor.cpp
+END
+MarEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/MarEditor/MarEditor.h
+END
+MarEditor.res
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/MarEditor/MarEditor.res
+END

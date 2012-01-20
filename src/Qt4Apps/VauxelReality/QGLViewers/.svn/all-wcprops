@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/QGLViewers
+END
+GlobeQGLViewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/QGLViewers/GlobeQGLViewer.cpp
+END
+GlobeQGLViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/QGLViewers/GlobeQGLViewer.h
+END
+MetropolisQGLViewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/QGLViewers/MetropolisQGLViewer.cpp
+END
+MetropolisQGLViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/QGLViewers/MetropolisQGLViewer.h
+END

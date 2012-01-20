@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4691/trunk/src/otherlibs/RtAudio
+END
+RtAudio3.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3959/trunk/src/otherlibs/RtAudio/RtAudio3.h
+END
+RtError.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4678/trunk/src/otherlibs/RtAudio/RtError.h
+END
+RtAudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/4691/trunk/src/otherlibs/RtAudio/RtAudio.cpp
+END
+RtError3.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3578/trunk/src/otherlibs/RtAudio/RtError3.h
+END
+RtAudio3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3959/trunk/src/otherlibs/RtAudio/RtAudio3.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/2940/trunk/src/otherlibs/RtAudio/CMakeLists.txt
+END
+RtAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4691/trunk/src/otherlibs/RtAudio/RtAudio.h
+END

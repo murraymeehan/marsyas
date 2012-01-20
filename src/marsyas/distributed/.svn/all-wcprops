@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed
+END
+recvFFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed/recvFFT.cpp
+END
+sendTCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed/sendTCP.cpp
+END
+sendUDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed/sendUDP.cpp
+END
+collector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed/collector.cpp
+END
+dispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed/dispatcher.cpp
+END
+recvTCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/marsyas/distributed/recvTCP.cpp
+END
+recvUDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/marsyas/distributed/recvUDP.cpp
+END
+sendFFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3797/trunk/src/marsyas/distributed/sendFFT.cpp
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/marsyas/!svn/ver/3618/trunk/doc/images
+END
+composite-parallel.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/composite-parallel.png
+END
+composite-fanout.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/composite-fanout.png
+END
+neural-implicit.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/neural-implicit.png
+END
+dataflow.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/dataflow.png
+END
+ccmake-unix.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/3067/trunk/doc/images/ccmake-unix.png
+END
+neural-explicit.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/neural-explicit.png
+END
+implicit-patching.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/implicit-patching.png
+END
+scheduler-tick.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3149/trunk/doc/images/scheduler-tick.png
+END
+implicit-filter-bank.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/implicit-filter-bank.png
+END
+sound2png_waveform2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3618/trunk/doc/images/sound2png_waveform2.png
+END
+feature-extraction.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/feature-extraction.png
+END
+explicit-patching.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/explicit-patching.png
+END
+composite-accumulator.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/composite-accumulator.png
+END
+scheduler-class.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3149/trunk/doc/images/scheduler-class.png
+END
+slices.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/slices.png
+END
+sound2png_spectrogram.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3618/trunk/doc/images/sound2png_spectrogram.png
+END
+sound2png_waveform.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3618/trunk/doc/images/sound2png_waveform.png
+END
+composite-series.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/833/trunk/doc/images/composite-series.png
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/4601/trunk/src/apps/carfac
+END
+carfac_hacking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4527/trunk/src/apps/carfac/carfac_hacking.cpp
+END
+carfac_png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4555/trunk/src/apps/carfac/carfac_png.cpp
+END
+carfac_binaural_3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4574/trunk/src/apps/carfac/carfac_binaural_3d.py
+END
+carfac_profiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4526/trunk/src/apps/carfac/carfac_profiling.cpp
+END
+carfac_3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4596/trunk/src/apps/carfac/carfac_3d.py
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4555/trunk/src/apps/carfac/CMakeLists.txt
+END
+carfac_binaural.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4601/trunk/src/apps/carfac/carfac_binaural.cpp
+END
+carfac_testing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4526/trunk/src/apps/carfac/carfac_testing.cpp
+END

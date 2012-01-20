@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO
+END
+MusicCollectionIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO/MusicCollectionIO.cpp
+END
+iTunesXmlWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO/iTunesXmlWriter.cpp
+END
+iTunesXmlHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO/iTunesXmlHandler.cpp
+END
+MusicCollectionIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO/MusicCollectionIO.h
+END
+iTunesXmlWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO/iTunesXmlWriter.h
+END
+iTunesXmlHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/VauxelReality/IO/iTunesXmlHandler.h
+END

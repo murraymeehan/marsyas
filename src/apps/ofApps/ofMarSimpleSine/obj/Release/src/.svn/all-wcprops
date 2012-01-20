@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src
+END
+ofMarSimpleSine.d
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src/ofMarSimpleSine.d
+END
+testApp.d
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src/testApp.d
+END
+GeoData.d
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src/GeoData.d
+END
+main.d
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src/main.d
+END
+SonificationEngine.d
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src/SonificationEngine.d
+END
+FiducialTracker.d
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSimpleSine/obj/Release/src/FiducialTracker.d
+END

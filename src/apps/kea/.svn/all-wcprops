@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/marsyas/!svn/ver/4726/trunk/src/apps/kea
+END
+kea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4726/trunk/src/apps/kea/kea.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3072/trunk/src/apps/kea/CMakeLists.txt
+END

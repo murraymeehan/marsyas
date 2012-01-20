@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/playback
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/playback/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/playback/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/playback/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/playback/models.py
+END
+save
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/playback/save
+END

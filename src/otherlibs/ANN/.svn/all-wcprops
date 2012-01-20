@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN
+END
+ANNperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/ANNperf.h
+END
+kd_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_util.h
+END
+bd_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/bd_tree.cpp
+END
+pr_queue_k.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/pr_queue_k.h
+END
+bd_fix_rad_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/bd_fix_rad_search.cpp
+END
+bd_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/bd_tree.h
+END
+ANNx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/ANNx.h
+END
+kd_split.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_split.cpp
+END
+bd_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/bd_search.cpp
+END
+bd_pr_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/bd_pr_search.cpp
+END
+ANN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/ANN.cpp
+END
+TAGS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/TAGS
+END
+kd_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_tree.cpp
+END
+kd_split.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_split.h
+END
+kd_fix_rad_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_fix_rad_search.cpp
+END
+brute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/brute.cpp
+END
+ANN.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/ANN.h
+END
+kd_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_tree.h
+END
+kd_dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_dump.cpp
+END
+kd_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_search.cpp
+END
+kd_fix_rad_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_fix_rad_search.h
+END
+kd_pr_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_pr_search.cpp
+END
+kd_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_search.h
+END
+kd_pr_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_pr_search.h
+END
+pr_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/pr_queue.h
+END
+kd_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/kd_util.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/CMakeLists.txt
+END
+perf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4098/trunk/src/otherlibs/ANN/perf.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram
+END
+addons.make
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/addons.make
+END
+openFrameworks-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/openFrameworks-Info.plist
+END
+data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/data
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3815/trunk/src/apps/ofApps/ofMarCorrelogram/makefile
+END

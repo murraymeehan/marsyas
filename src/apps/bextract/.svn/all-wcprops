@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/marsyas/!svn/ver/4623/trunk/src/apps/bextract
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3011/trunk/src/apps/bextract/CMakeLists.txt
+END
+bextract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4623/trunk/src/apps/bextract/bextract.cpp
+END

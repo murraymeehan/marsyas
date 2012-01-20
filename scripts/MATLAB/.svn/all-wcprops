@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/marsyas/!svn/ver/3437/trunk/scripts/MATLAB
+END
+LPC_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/1251/trunk/scripts/MATLAB/LPC_test.m
+END
+LSP_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/marsyas/!svn/ver/833/trunk/scripts/MATLAB/LSP_test.m
+END
+LPCC_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/833/trunk/scripts/MATLAB/LPCC_test.m
+END
+fft2chromamx.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2203/trunk/scripts/MATLAB/fft2chromamx.m
+END
+toy_with_onsets.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2627/trunk/scripts/MATLAB/toy_with_onsets.m
+END

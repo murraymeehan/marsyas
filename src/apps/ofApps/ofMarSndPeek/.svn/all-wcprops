@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSndPeek
+END
+addons.make
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSndPeek/addons.make
+END
+openFrameworks-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSndPeek/openFrameworks-Info.plist
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSndPeek/makefile
+END

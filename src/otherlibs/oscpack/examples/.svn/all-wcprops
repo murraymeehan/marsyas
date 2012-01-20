@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/examples
+END
+SimpleSend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/examples/SimpleSend.cpp
+END
+OscDump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/examples/OscDump.cpp
+END
+SimpleReceive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/examples/SimpleReceive.cpp
+END

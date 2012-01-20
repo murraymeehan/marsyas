@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/marsyas/!svn/ver/3797/trunk/src/swig/ruby
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3797/trunk/src/swig/ruby/test.rb
+END
+marsyas.i
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/ruby/marsyas.i
+END
+marsyas_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/ruby/marsyas_wrap.cxx
+END
+extconf.rb.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/ruby/extconf.rb.in
+END
+setup.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/ruby/setup.sh.in
+END

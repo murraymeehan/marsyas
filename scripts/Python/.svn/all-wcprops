@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/marsyas/!svn/ver/4360/trunk/scripts/Python
+END
+icme2011_distance_matrix_resampled.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/4344/trunk/scripts/Python/icme2011_distance_matrix_resampled.py
+END
+icme2011_plot_dtw.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4343/trunk/scripts/Python/icme2011_plot_dtw.py
+END
+ieee06.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/833/trunk/scripts/Python/ieee06.py
+END
+batchPan.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/833/trunk/scripts/Python/batchPan.py
+END
+batch.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/1160/trunk/scripts/Python/batch.py
+END
+icme2011_linear_interpolate_pitch_contour.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/4342/trunk/scripts/Python/icme2011_linear_interpolate_pitch_contour.py
+END
+batchPeakClustering.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3509/trunk/scripts/Python/batchPeakClustering.py
+END
+icme2011_stats_from_pitch_contour.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/4343/trunk/scripts/Python/icme2011_stats_from_pitch_contour.py
+END
+batchReferences.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/1161/trunk/scripts/Python/batchReferences.py
+END
+icme2011_dtw_matrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/4343/trunk/scripts/Python/icme2011_dtw_matrix.py
+END
+icme2011_distance_matrix_from_pitch_contours.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/marsyas/!svn/ver/4360/trunk/scripts/Python/icme2011_distance_matrix_from_pitch_contours.py
+END
+icme2011_dtw_in_python.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4343/trunk/scripts/Python/icme2011_dtw_in_python.py
+END
+scheduler_libs.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/833/trunk/scripts/Python/scheduler_libs.py
+END

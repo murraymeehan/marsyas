@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4539/trunk/src/otherlibs/pngwriter
+END
+pngwriter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3456/trunk/src/otherlibs/pngwriter/pngwriter.cc
+END
+pngwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4539/trunk/src/otherlibs/pngwriter/pngwriter.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3454/trunk/src/otherlibs/pngwriter/Makefile
+END

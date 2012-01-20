@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest
+END
+TestSuite.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TestSuite.h
+END
+SelfTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/SelfTest.h
+END
+ErrorPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/ErrorPrinter.h
+END
+ValueTraits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/ValueTraits.cpp
+END
+GlobalFixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/GlobalFixture.cpp
+END
+LinkedList.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/LinkedList.h
+END
+RealDescriptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/RealDescriptions.cpp
+END
+Descriptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Descriptions.h
+END
+Win32Gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Win32Gui.h
+END
+ParenPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/ParenPrinter.h
+END
+ErrorFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/ErrorFormatter.h
+END
+DummyDescriptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/DummyDescriptions.h
+END
+TestSuite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TestSuite.cpp
+END
+Gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Gui.h
+END
+StdioPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/StdioPrinter.h
+END
+StdioFilePrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/StdioFilePrinter.h
+END
+Mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Mock.h
+END
+QtGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/QtGui.h
+END
+TestTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TestTracker.h
+END
+Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Flags.h
+END
+LinkedList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/LinkedList.cpp
+END
+cxxtestgen.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3056/trunk/src/otherlibs/cxxtest/cxxtestgen.py
+END
+Descriptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Descriptions.cpp
+END
+ValueTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/ValueTraits.h
+END
+GlobalFixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/GlobalFixture.h
+END
+TestRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TestRunner.h
+END
+RealDescriptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/RealDescriptions.h
+END
+DummyDescriptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/DummyDescriptions.cpp
+END
+StdValueTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/StdValueTraits.h
+END
+Root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/Root.cpp
+END
+X11Gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/X11Gui.h
+END
+TeeListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TeeListener.h
+END
+TestListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TestListener.h
+END
+TestTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/TestTracker.cpp
+END
+StdHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/StdHeaders.h
+END
+YesNoRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/otherlibs/cxxtest/YesNoRunner.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/marsyas/!svn/ver/3797/trunk/src/swig/lua
+END
+test.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3797/trunk/src/swig/lua/test.lua
+END
+marsyas.i
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/lua/marsyas.i
+END
+marsyas_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2995/trunk/src/swig/lua/marsyas_wrap.cxx
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3437/trunk/scripts/MATLAB/peakClusteringEval
+END
+computeSDR.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3321/trunk/scripts/MATLAB/peakClusteringEval/computeSDR.m
+END
+testComputeSDR.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/3264/trunk/scripts/MATLAB/peakClusteringEval/testComputeSDR.m
+END
+playAudio.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/3306/trunk/scripts/MATLAB/peakClusteringEval/playAudio.m
+END
+computeAudioFrame.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/3317/trunk/scripts/MATLAB/peakClusteringEval/computeAudioFrame.m
+END
+evaluateTextWin.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/3437/trunk/scripts/MATLAB/peakClusteringEval/evaluateTextWin.m
+END
+saveSDRresults.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/3321/trunk/scripts/MATLAB/peakClusteringEval/saveSDRresults.m
+END
+synthetizeMIDI.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/3321/trunk/scripts/MATLAB/peakClusteringEval/synthetizeMIDI.m
+END
+plotClusteredAudio.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/3275/trunk/scripts/MATLAB/peakClusteringEval/plotClusteredAudio.m
+END
+computeSpectralSDR.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/3321/trunk/scripts/MATLAB/peakClusteringEval/computeSpectralSDR.m
+END

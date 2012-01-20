@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DStackedGraphs
+END
+Marx2DStackedGraphs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DStackedGraphs/Marx2DStackedGraphs.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DStackedGraphs/main.cpp
+END
+Marx2DStackedGraphs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DStackedGraphs/Marx2DStackedGraphs.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/Marx2DStackedGraphs/CMakeLists.txt
+END

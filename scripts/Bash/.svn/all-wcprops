@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/marsyas/!svn/ver/4347/trunk/scripts/Bash
+END
+batch_mp32wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_mp32wav
+END
+batch_mp3convert
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_mp3convert
+END
+batch_mp3convert1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_mp3convert1
+END
+batch_raw2au
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_raw2au
+END
+batch_au2wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_au2wav
+END
+batch_wav2au
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_wav2au
+END
+snippitify.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/snippitify.sh
+END
+batch_ismir2004
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4338/trunk/scripts/Bash/batch_ismir2004
+END
+batch_icme2011.bash
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/4347/trunk/scripts/Bash/batch_icme2011.bash
+END

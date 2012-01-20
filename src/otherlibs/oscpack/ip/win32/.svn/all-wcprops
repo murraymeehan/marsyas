@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/ip/win32
+END
+UdpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/ip/win32/UdpSocket.cpp
+END
+NetworkingUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/ip/win32/NetworkingUtils.cpp
+END

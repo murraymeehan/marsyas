@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/apache
+END
+django.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/apache/django.wsgi
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4474/trunk/src/apps/peakClustering
+END
+peakClustering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/4474/trunk/src/apps/peakClustering/peakClustering.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3071/trunk/src/apps/peakClustering/CMakeLists.txt
+END

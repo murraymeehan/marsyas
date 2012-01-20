@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/marsyas/!svn/ver/4726/trunk/src/apps
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/1959/trunk/src/apps/ChangeLog
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/marsyas/!svn/ver/4631/trunk/src/apps/CMakeLists.txt
+END

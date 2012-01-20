@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/playback
+END
+pitchcontour.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/playback/pitchcontour.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/playback/index.html
+END
+pitchcontour-embed.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/playback/pitchcontour-embed.html
+END
+save
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/marsyas/!svn/ver/4428/trunk/src/django/birdsong/application/birdsong/templates/playback/save
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/LICENSE
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/TODO
+END
+make.MinGW32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/make.MinGW32.bat
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/CHANGES
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/README
+END

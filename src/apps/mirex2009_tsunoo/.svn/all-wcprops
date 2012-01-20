@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/mirex2009_tsunoo
+END
+extractBassFeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/mirex2009_tsunoo/extractBassFeatures.cpp
+END
+extractRhythmFeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/mirex2009_tsunoo/extractRhythmFeatures.cpp
+END
+extractMoodFeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4083/trunk/src/apps/mirex2009_tsunoo/extractMoodFeatures.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3695/trunk/src/apps/mirex2009_tsunoo/CMakeLists.txt
+END

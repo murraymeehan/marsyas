@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSpectrogram/src
+END
+SoundEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSpectrogram/src/SoundEngine.cpp
+END
+ofMarCorrelogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSpectrogram/src/ofMarCorrelogram.cpp
+END
+SoundEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSpectrogram/src/SoundEngine.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSpectrogram/src/main.cpp
+END
+ofMarCorrelogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/marsyas/!svn/ver/3814/trunk/src/apps/ofApps/ofMarSpectrogram/src/ofMarCorrelogram.h
+END

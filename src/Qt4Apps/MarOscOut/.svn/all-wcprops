@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3736/trunk/src/Qt4Apps/MarOscOut
+END
+test-send-osc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3347/trunk/src/Qt4Apps/MarOscOut/test-send-osc.py
+END
+receive-from-MarOscOut.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3347/trunk/src/Qt4Apps/MarOscOut/receive-from-MarOscOut.py
+END
+MarOscOutWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarOscOut/MarOscOutWindow.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarOscOut/main.cpp
+END
+MarOscOutWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarOscOut/MarOscOutWindow.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3736/trunk/src/Qt4Apps/MarOscOut/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3347/trunk/src/Qt4Apps/MarOscOut/README
+END

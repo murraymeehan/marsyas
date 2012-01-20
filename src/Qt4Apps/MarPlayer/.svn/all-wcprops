@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarPlayer
+END
+MarPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarPlayer/MarPlayer.h
+END
+MarPlayerForm.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/MarPlayerForm.qrc
+END
+Mapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarPlayer/Mapper.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarPlayer/main.cpp
+END
+MarPlayer_resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/MarPlayer_resource.rc
+END
+MarPlayer.icns
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/MarPlayer.icns
+END
+MarPlayer.sln
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/MarPlayer.sln
+END
+Mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarPlayer/Mapper.h
+END
+MarPlayerForm.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/MarPlayerForm.ui
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3011/trunk/src/Qt4Apps/MarPlayer/CMakeLists.txt
+END
+MarPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarPlayer/MarPlayer.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarPlayer/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/marsyas/!svn/ver/4451/trunk/misc
+END
+astylerc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/marsyas/!svn/ver/1846/trunk/misc/astylerc
+END
+marsyas.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/marsyas/!svn/ver/2798/trunk/misc/marsyas.vim
+END
+check-trusted.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/marsyas/!svn/ver/4451/trunk/misc/check-trusted.py
+END

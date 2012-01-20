@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarLpc
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarLpc/main.cpp
+END
+MarControlGUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarLpc/MarControlGUI.cpp
+END
+MarLpcWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarLpc/MarLpcWindow.cpp
+END
+MarLpc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/1956/trunk/src/Qt4Apps/MarLpc/MarLpc.sln
+END
+MarControlGUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarLpc/MarControlGUI.h
+END
+MarLpcWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/2980/trunk/src/Qt4Apps/MarLpc/MarLpcWindow.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/3154/trunk/src/Qt4Apps/MarLpc/CMakeLists.txt
+END

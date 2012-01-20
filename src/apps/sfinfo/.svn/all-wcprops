@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/marsyas/!svn/ver/4490/trunk/src/apps/sfinfo
+END
+sfinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/marsyas/!svn/ver/4490/trunk/src/apps/sfinfo/sfinfo.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/marsyas/!svn/ver/3011/trunk/src/apps/sfinfo/CMakeLists.txt
+END

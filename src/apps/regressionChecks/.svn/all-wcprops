@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/regressionChecks
+END
+coreChecks.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3364/trunk/src/apps/regressionChecks/coreChecks.h
+END
+regressionChecks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/regressionChecks/regressionChecks.cpp
+END
+basicChecks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/regressionChecks/basicChecks.cpp
+END
+common-reg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/regressionChecks/common-reg.cpp
+END
+analysisChecks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/regressionChecks/analysisChecks.cpp
+END
+basicChecks.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/regressionChecks/basicChecks.h
+END
+common-reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/regressionChecks/common-reg.h
+END
+analysisChecks.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/2980/trunk/src/apps/regressionChecks/analysisChecks.h
+END
+coreChecks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3797/trunk/src/apps/regressionChecks/coreChecks.cpp
+END

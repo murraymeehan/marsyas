@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc
+END
+gettingdata.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/gettingdata.cpp.html
+END
+backend.h.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/backend.h.html
+END
+main.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/1568/trunk/doc/source-doc/main.cpp.texinfo
+END
+backend.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2079/trunk/doc/source-doc/backend.cpp.texinfo
+END
+dataflow-split.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/1892/trunk/doc/source-doc/dataflow-split.cpp.texinfo
+END
+commandOptions.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/1568/trunk/doc/source-doc/commandOptions.cpp.texinfo
+END
+Makefile.linux.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc/Makefile.linux.texinfo
+END
+writefile.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/1892/trunk/doc/source-doc/writefile.cpp.texinfo
+END
+controls.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/controls.cpp.html
+END
+gettingdata.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2522/trunk/doc/source-doc/gettingdata.cpp.texinfo
+END
+backend.h.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2079/trunk/doc/source-doc/backend.h.texinfo
+END
+Makefile.osx.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc/Makefile.osx.html
+END
+do-nothing.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3148/trunk/doc/source-doc/do-nothing.cpp.html
+END
+controls.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/1892/trunk/doc/source-doc/controls.cpp.texinfo
+END
+helloworld.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/helloworld.cpp.html
+END
+Makefile.osx.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc/Makefile.osx.texinfo
+END
+mainwindow.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/mainwindow.cpp.html
+END
+do-nothing.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3148/trunk/doc/source-doc/do-nothing.cpp.texinfo
+END
+mainwindow.h.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/mainwindow.h.html
+END
+tutorial.pro.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc/tutorial.pro.html
+END
+helloworld.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/1892/trunk/doc/source-doc/helloworld.cpp.texinfo
+END
+main.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/main.cpp.html
+END
+mainwindow.cpp.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/1892/trunk/doc/source-doc/mainwindow.cpp.texinfo
+END
+backend.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/backend.cpp.html
+END
+mainwindow.h.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/1892/trunk/doc/source-doc/mainwindow.h.texinfo
+END
+tutorial.pro.texinfo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc/tutorial.pro.texinfo
+END
+dataflow-split.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/dataflow-split.cpp.html
+END
+commandOptions.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/commandOptions.cpp.html
+END
+Makefile.linux.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/marsyas/!svn/ver/3166/trunk/doc/source-doc/Makefile.linux.html
+END
+writefile.cpp.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/marsyas/!svn/ver/2746/trunk/doc/source-doc/writefile.cpp.html
+END

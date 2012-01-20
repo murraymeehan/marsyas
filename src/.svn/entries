@@ -1,0 +1,172 @@
+10
+
+dir
+4726
+https://marsyas.svn.sourceforge.net/svnroot/marsyas/trunk/src
+https://marsyas.svn.sourceforge.net/svnroot/marsyas
+
+
+
+2012-01-04T22:27:13.591979Z
+4726
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0901a56d-6f15-0410-8871-f39a65de4983
+
+marsyas
+dir
+
+mvamp
+dir
+
+marsyas_python
+dir
+
+android
+dir
+
+marsyas_max-msp
+dir
+
+marsyasqt
+dir
+
+CTestConfig.cmake
+file
+
+
+
+
+2012-01-20T01:11:09.240849Z
+a5b9fc45c47698965d9144618ce545a8
+2010-01-24T23:02:45.260425Z
+3795
+paulreimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+239
+
+otherlibs
+dir
+
+misc
+dir
+
+Qt4Apps
+dir
+
+config.h.in
+file
+
+
+
+
+2012-01-20T01:11:09.240849Z
+aef52bd168fa5567e856986e0fc33248
+2011-02-20T15:58:47.074713Z
+4424
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+969
+
+django
+dir
+
+tests
+dir
+
+marsyas_of
+dir
+
+apps
+dir
+
+swig
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-01-20T01:11:09.240849Z
+4ac5ba118facfe6cd5c043ae6cc41d6a
+2011-11-03T18:59:41.498331Z
+4695
+gtzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2746
+

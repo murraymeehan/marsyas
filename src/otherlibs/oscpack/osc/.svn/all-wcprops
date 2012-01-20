@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc
+END
+OscTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscTypes.h
+END
+OscHostEndianness.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscHostEndianness.h
+END
+OscPrintReceivedElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscPrintReceivedElements.cpp
+END
+OscPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscPacketListener.h
+END
+MessageMappingOscPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/MessageMappingOscPacketListener.h
+END
+OscException.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscException.h
+END
+OscOutboundPacketStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscOutboundPacketStream.cpp
+END
+OscReceivedElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscReceivedElements.cpp
+END
+OscTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscTypes.cpp
+END
+OscPrintReceivedElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscPrintReceivedElements.h
+END
+OscOutboundPacketStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscOutboundPacketStream.h
+END
+OscReceivedElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/4631/trunk/src/otherlibs/oscpack/osc/OscReceivedElements.h
+END

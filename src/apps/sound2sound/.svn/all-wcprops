@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/marsyas/!svn/ver/4319/trunk/src/apps/sound2sound
+END
+sound2sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/marsyas/!svn/ver/4319/trunk/src/apps/sound2sound/sound2sound.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/4284/trunk/src/apps/sound2sound/CMakeLists.txt
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarGrid2/Widgets
+END
+SquareRenderArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3369/trunk/src/Qt4Apps/MarGrid2/Widgets/SquareRenderArea.h
+END
+Tracklist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/Tracklist.cpp
+END
+Playlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/Playlist.cpp
+END
+Tracklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/Tracklist.h
+END
+Playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/Playlist.h
+END
+OSCReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/Widgets/OSCReceiver.cpp
+END
+OptionsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3377/trunk/src/Qt4Apps/MarGrid2/Widgets/OptionsDialog.cpp
+END
+GridDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3677/trunk/src/Qt4Apps/MarGrid2/Widgets/GridDisplay.cpp
+END
+Keypad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/Keypad.cpp
+END
+PlayBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/PlayBox.cpp
+END
+OSCReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3408/trunk/src/Qt4Apps/MarGrid2/Widgets/OSCReceiver.h
+END
+OptionsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3377/trunk/src/Qt4Apps/MarGrid2/Widgets/OptionsDialog.h
+END
+GridDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/marsyas/!svn/ver/3409/trunk/src/Qt4Apps/MarGrid2/Widgets/GridDisplay.h
+END
+PlaylistItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/PlaylistItem.cpp
+END
+Keypad.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/Keypad.h
+END
+PlaylistModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/PlaylistModel.cpp
+END
+PlayBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/PlayBox.h
+END
+Grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/marsyas/!svn/ver/3797/trunk/src/Qt4Apps/MarGrid2/Widgets/Grid.cpp
+END
+PlaylistItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/PlaylistItem.h
+END
+ColourMapDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/3369/trunk/src/Qt4Apps/MarGrid2/Widgets/ColourMapDisplay.cpp
+END
+PlaylistModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/marsyas/!svn/ver/3364/trunk/src/Qt4Apps/MarGrid2/Widgets/PlaylistModel.h
+END
+SquareRenderArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/marsyas/!svn/ver/3370/trunk/src/Qt4Apps/MarGrid2/Widgets/SquareRenderArea.cpp
+END
+Grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/marsyas/!svn/ver/3409/trunk/src/Qt4Apps/MarGrid2/Widgets/Grid.h
+END
+ColourMapDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/marsyas/!svn/ver/3369/trunk/src/Qt4Apps/MarGrid2/Widgets/ColourMapDisplay.h
+END
