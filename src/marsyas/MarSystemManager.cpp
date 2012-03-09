@@ -141,6 +141,7 @@
 #include "Normalize.h"
 #include "SMO.h"
 #include "Plucked.h"
+#include "LHPlucked.h"
 #include "Delay.h"
 #include "LPC.h"
 #include "LPCC.h"
@@ -265,6 +266,7 @@
 #include "Krumhansl_key_finder.h"
 #include "PWMSource.h"
 #include "DCSource.h"
+
 //modifyHeader
 
 
@@ -384,6 +386,7 @@ MarSystemManager::MarSystemManager()
 	registerPrototype("KNNClassifier", new KNNClassifier("knnp"));
 	registerPrototype("SMO", new SMO("smopr"));
 	registerPrototype("Plucked", new Plucked("pluckedpr"));
+	registerPrototype("LHPlucked", new Plucked("lhplucked"));
 	registerPrototype("Delay", new Delay("delaypr"));
 	registerPrototype("DelaySamples", new DelaySamples("delay"));
 	registerPrototype("Kurtosis", new Kurtosis("kurtosisp"));
